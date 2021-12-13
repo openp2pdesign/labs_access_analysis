@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="1731.144844pt" version="1.1" viewBox="0 0 2240.923705 1731.144844" width="2240.923705pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="1731.144844pt" version="1.1" viewBox="0 0 2238.43433 1731.144844" width="2238.43433pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <metadata>
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-12-09T22:47:44.329374</dc:date>
+    <dc:date>2021-12-13T23:12:06.506426</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -22,8 +22,8 @@
  <g id="figure_1">
   <g id="patch_1">
    <path d="M -0 1731.144844 
-L 2240.923705 1731.144844 
-L 2240.923705 0 
+L 2238.43433 1731.144844 
+L 2238.43433 0 
 L -0 0 
 z
 " style="fill:#ffffff;"/>
@@ -40,7 +40,7 @@ z
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1638 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1638 
 L 1053.604687 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
@@ -89,13 +89,13 @@ z
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1270.381588 1638 
-L 1270.381588 7.2 
+      <path clip-path="url(#p2323ff4774)" d="M 1270.359484 1638 
+L 1270.359484 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_2">
       <!-- 0.2 -->
-      <g style="fill:#262626;" transform="translate(1249.047604 1678.25)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(1249.025499 1678.25)scale(0.33 -0.33)">
        <defs>
         <path d="M 1459 4346 
 Q 1843 4346 2134 4192 
@@ -129,13 +129,13 @@ z
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1487.158488 1638 
-L 1487.158488 7.2 
+      <path clip-path="url(#p2323ff4774)" d="M 1487.11428 1638 
+L 1487.11428 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_3">
       <!-- 0.4 -->
-      <g style="fill:#262626;" transform="translate(1465.213488 1678.25)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(1465.16928 1678.25)scale(0.33 -0.33)">
        <defs>
         <path d="M 3213 1523 
 L 3213 1056 
@@ -164,13 +164,13 @@ z
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1703.935389 1638 
-L 1703.935389 7.2 
+      <path clip-path="url(#p2323ff4774)" d="M 1703.869076 1638 
+L 1703.869076 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_4">
       <!-- 0.6 -->
-      <g style="fill:#262626;" transform="translate(1681.97492 1678.25)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(1681.908607 1678.25)scale(0.33 -0.33)">
        <defs>
         <path d="M 1971 2816 
 Q 2298 2816 2566 2662 
@@ -210,13 +210,13 @@ z
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1920.712289 1638 
-L 1920.712289 7.2 
+      <path clip-path="url(#p2323ff4774)" d="M 1920.623872 1638 
+L 1920.623872 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_5">
       <!-- 0.8 -->
-      <g style="fill:#262626;" transform="translate(1898.455336 1678.25)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(1898.366919 1678.25)scale(0.33 -0.33)">
        <defs>
         <path d="M 2336 2298 
 Q 3238 1933 3238 1146 
@@ -272,13 +272,13 @@ z
     </g>
     <g id="xtick_6">
      <g id="line2d_6">
-      <path clip-path="url(#p4fdc8584c3)" d="M 2137.48919 1638 
-L 2137.48919 7.2 
+      <path clip-path="url(#p2323ff4774)" d="M 2137.378668 1638 
+L 2137.378668 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_6">
       <!-- 1.0 -->
-      <g style="fill:#262626;" transform="translate(2117.178721 1678.25)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(2117.068199 1678.25)scale(0.33 -0.33)">
        <defs>
         <path d="M 2067 4282 
 L 2067 0 
@@ -508,13 +508,13 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_7">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1620.273913 
-L 2169.604688 1620.273913 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1622.9 
+L 2169.604688 1622.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_8">
       <!-- Barcelona Mobility LAB -->
-      <g style="fill:#262626;" transform="translate(693.486719 1633.143913)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(693.486719 1635.77)scale(0.33 -0.33)">
        <defs>
         <path d="M 2586 2330 
 Q 3040 2253 3321 2009 
@@ -708,13 +708,13 @@ z
     </g>
     <g id="ytick_2">
      <g id="line2d_8">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1584.821739 
-L 2169.604688 1584.821739 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1592.7 
+L 2169.604688 1592.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_9">
       <!-- DFactory Barcelona -->
-      <g style="fill:#262626;" transform="translate(747.276719 1597.196739)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(747.276719 1605.075)scale(0.33 -0.33)">
        <defs>
         <path d="M 1562 4410 
 Q 2560 4410 3165 3946 
@@ -760,13 +760,13 @@ z
     </g>
     <g id="ytick_3">
      <g id="line2d_9">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1549.369565 
-L 2169.604688 1549.369565 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1562.5 
+L 2169.604688 1562.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_10">
       <!-- Ateneu de Fabricació Ciutat Meridiana -->
-      <g style="fill:#262626;" transform="translate(467.436719 1561.744565)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(467.436719 1574.875)scale(0.33 -0.33)">
        <defs>
         <path d="M 3117 0 
 L 2611 0 
@@ -903,13 +903,13 @@ z
     </g>
     <g id="ytick_4">
      <g id="line2d_10">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1513.917391 
-L 2169.604688 1513.917391 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1532.3 
+L 2169.604688 1532.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_11">
       <!-- Share Makerspace -->
-      <g style="fill:#262626;" transform="translate(765.390625 1526.292391)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(765.390625 1544.675)scale(0.33 -0.33)">
        <defs>
         <path d="M 1728 4486 
 Q 2170 4486 2483 4361 
@@ -1034,52 +1034,13 @@ z
     </g>
     <g id="ytick_5">
      <g id="line2d_11">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1478.465217 
-L 2169.604688 1478.465217 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1502.1 
+L 2169.604688 1502.1 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_12">
-      <!-- Makers Hub -->
-      <g style="fill:#262626;" transform="translate(861.451562 1490.840217)scale(0.33 -0.33)">
-       <defs>
-        <path d="M 3104 0 
-L 3104 2067 
-L 1248 2067 
-L 1248 0 
-L 640 0 
-L 640 4410 
-L 1248 4410 
-L 1248 2566 
-L 3104 2566 
-L 3104 4410 
-L 3712 4410 
-L 3712 0 
-L 3104 0 
-z
-" id="FiraSans-Regular-48" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#FiraSans-Regular-4d"/>
-       <use x="77.799988" xlink:href="#FiraSans-Regular-61"/>
-       <use x="132.199982" xlink:href="#FiraSans-Regular-6b"/>
-       <use x="183.399979" xlink:href="#FiraSans-Regular-65"/>
-       <use x="237.899963" xlink:href="#FiraSans-Regular-72"/>
-       <use x="276.499954" xlink:href="#FiraSans-Regular-73"/>
-       <use x="323.199951" xlink:href="#FiraSans-Regular-20"/>
-       <use x="349.699936" xlink:href="#FiraSans-Regular-48"/>
-       <use x="417.699921" xlink:href="#FiraSans-Regular-75"/>
-       <use x="475.899918" xlink:href="#FiraSans-Regular-62"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_6">
-     <g id="line2d_12">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1443.013043 
-L 2169.604688 1443.013043 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_13">
       <!-- Locanda Officina Monumentale -->
-      <g style="fill:#262626;" transform="translate(570.922656 1455.388043)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(570.922656 1514.475)scale(0.33 -0.33)">
        <defs>
         <path d="M 2214 4486 
 Q 2771 4486 3190 4220 
@@ -1185,15 +1146,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_7">
-     <g id="line2d_13">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1407.56087 
-L 2169.604688 1407.56087 
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1471.9 
+L 2169.604688 1471.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_14">
+     <g id="text_13">
       <!-- FabLabMilano - Fare le Idee -->
-      <g style="fill:#262626;" transform="translate(622.897656 1419.93587)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(622.897656 1484.275)scale(0.33 -0.33)">
        <defs>
         <path d="M 384 1754 
 L 384 2253 
@@ -1240,15 +1201,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_8">
-     <g id="line2d_14">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1372.108696 
-L 2169.604688 1372.108696 
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1441.7 
+L 2169.604688 1441.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_15">
+     <g id="text_14">
       <!-- Ateneu de Fabricació La Fàbrica del Sol -->
-      <g style="fill:#262626;" transform="translate(450.472656 1384.483696)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(450.472656 1454.075)scale(0.33 -0.33)">
        <defs>
         <path d="M 2880 787 
 Q 2880 582 2950 483 
@@ -1330,15 +1291,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_9">
-     <g id="line2d_15">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1336.656522 
-L 2169.604688 1336.656522 
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1411.5 
+L 2169.604688 1411.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_16">
+     <g id="text_15">
       <!-- Vectorealism FabLab -->
-      <g style="fill:#262626;" transform="translate(726.976562 1349.031522)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(726.976562 1423.875)scale(0.33 -0.33)">
        <defs>
         <path d="M 3520 4410 
 L 2112 0 
@@ -1373,15 +1334,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_10">
-     <g id="line2d_16">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1301.204348 
-L 2169.604688 1301.204348 
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1381.3 
+L 2169.604688 1381.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_17">
+     <g id="text_16">
       <!-- WeMake | Makerspace Fablab -->
-      <g style="fill:#262626;" transform="translate(595.863437 1314.520363)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(595.863437 1394.616016)scale(0.33 -0.33)">
        <defs>
         <path d="M 5126 4410 
 L 4230 0 
@@ -1436,15 +1397,54 @@ z
       </g>
      </g>
     </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1351.1 
+L 2169.604688 1351.1 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_17">
+      <!-- Makers Hub -->
+      <g style="fill:#262626;" transform="translate(861.451562 1363.475)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 3104 0 
+L 3104 2067 
+L 1248 2067 
+L 1248 0 
+L 640 0 
+L 640 4410 
+L 1248 4410 
+L 1248 2566 
+L 3104 2566 
+L 3104 4410 
+L 3712 4410 
+L 3712 0 
+L 3104 0 
+z
+" id="FiraSans-Regular-48" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-4d"/>
+       <use x="77.799988" xlink:href="#FiraSans-Regular-61"/>
+       <use x="132.199982" xlink:href="#FiraSans-Regular-6b"/>
+       <use x="183.399979" xlink:href="#FiraSans-Regular-65"/>
+       <use x="237.899963" xlink:href="#FiraSans-Regular-72"/>
+       <use x="276.499954" xlink:href="#FiraSans-Regular-73"/>
+       <use x="323.199951" xlink:href="#FiraSans-Regular-20"/>
+       <use x="349.699936" xlink:href="#FiraSans-Regular-48"/>
+       <use x="417.699921" xlink:href="#FiraSans-Regular-75"/>
+       <use x="475.899918" xlink:href="#FiraSans-Regular-62"/>
+      </g>
+     </g>
+    </g>
     <g id="ytick_11">
      <g id="line2d_17">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1265.752174 
-L 2169.604688 1265.752174 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1320.9 
+L 2169.604688 1320.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_18">
       <!-- TMDC -->
-      <g style="fill:#262626;" transform="translate(955.635625 1278.127174)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(955.635625 1333.275)scale(0.33 -0.33)">
        <defs>
         <path d="M 3245 4410 
 L 3181 3891 
@@ -1467,34 +1467,13 @@ z
     </g>
     <g id="ytick_12">
      <g id="line2d_18">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1230.3 
-L 2169.604688 1230.3 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1290.7 
+L 2169.604688 1290.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_19">
-      <!-- Recipient -->
-      <g style="fill:#262626;" transform="translate(896.931719 1243.17)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-52"/>
-       <use x="60.499985" xlink:href="#FiraSans-Regular-65"/>
-       <use x="114.999969" xlink:href="#FiraSans-Regular-63"/>
-       <use x="162.799957" xlink:href="#FiraSans-Regular-69"/>
-       <use x="190.999954" xlink:href="#FiraSans-Regular-70"/>
-       <use x="250.399948" xlink:href="#FiraSans-Regular-69"/>
-       <use x="278.599945" xlink:href="#FiraSans-Regular-65"/>
-       <use x="333.09993" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="391.699921" xlink:href="#FiraSans-Regular-74"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_13">
-     <g id="line2d_19">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1194.847826 
-L 2169.604688 1194.847826 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_20">
       <!-- Polifactory -->
-      <g style="fill:#262626;" transform="translate(875.744687 1207.717826)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(875.744687 1303.57)scale(0.33 -0.33)">
        <defs>
         <path d="M 1798 4410 
 Q 2618 4410 3066 4067 
@@ -1532,15 +1511,36 @@ z
       </g>
      </g>
     </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1260.5 
+L 2169.604688 1260.5 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_20">
+      <!-- Recipient -->
+      <g style="fill:#262626;" transform="translate(896.931719 1273.37)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-52"/>
+       <use x="60.499985" xlink:href="#FiraSans-Regular-65"/>
+       <use x="114.999969" xlink:href="#FiraSans-Regular-63"/>
+       <use x="162.799957" xlink:href="#FiraSans-Regular-69"/>
+       <use x="190.999954" xlink:href="#FiraSans-Regular-70"/>
+       <use x="250.399948" xlink:href="#FiraSans-Regular-69"/>
+       <use x="278.599945" xlink:href="#FiraSans-Regular-65"/>
+       <use x="333.09993" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="391.699921" xlink:href="#FiraSans-Regular-74"/>
+      </g>
+     </g>
+    </g>
     <g id="ytick_14">
      <g id="line2d_20">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1159.395652 
-L 2169.604688 1159.395652 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1230.3 
+L 2169.604688 1230.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_21">
       <!-- Camins Makers -->
-      <g style="fill:#262626;" transform="translate(813.931562 1171.770652)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(813.931562 1242.675)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-43"/>
        <use x="55.999985" xlink:href="#FiraSans-Regular-61"/>
        <use x="110.399979" xlink:href="#FiraSans-Regular-6d"/>
@@ -1559,46 +1559,13 @@ L 2169.604688 1159.395652
     </g>
     <g id="ytick_15">
      <g id="line2d_21">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1123.943478 
-L 2169.604688 1123.943478 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1200.1 
+L 2169.604688 1200.1 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_22">
-      <!-- Punt Multimèdia La Marina -->
-      <g style="fill:#262626;" transform="translate(635.870781 1136.318478)scale(0.33 -0.33)">
-       <defs>
-        <path d="M 3155 1786 
-Q 3155 1638 3142 1485 
-L 992 1485 
-Q 1030 928 1273 665 
-Q 1517 403 1901 403 
-Q 2144 403 2349 473 
-Q 2554 544 2778 698 
-L 3034 346 
-Q 2496 -77 1856 -77 
-Q 1152 -77 758 384 
-Q 365 845 365 1651 
-Q 365 2176 534 2582 
-Q 704 2989 1021 3219 
-Q 1338 3450 1766 3450 
-Q 2438 3450 2796 3008 
-Q 3155 2566 3155 1786 
-z
-M 2573 1958 
-Q 2573 2458 2374 2720 
-Q 2176 2982 1779 2982 
-Q 1056 2982 992 1920 
-L 2573 1920 
-L 2573 1958 
-z
-M 1344 5126 
-L 2618 4397 
-L 2438 4083 
-L 1082 4634 
-L 1344 5126 
-z
-" id="FiraSans-Regular-e8" transform="scale(0.015625)"/>
-       </defs>
+      <!-- Punt Multimedia La Marina -->
+      <g style="fill:#262626;" transform="translate(635.870781 1212.475)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-50"/>
        <use x="58.099991" xlink:href="#FiraSans-Regular-75"/>
        <use x="116.299988" xlink:href="#FiraSans-Regular-6e"/>
@@ -1610,7 +1577,7 @@ z
        <use x="402.799927" xlink:href="#FiraSans-Regular-74"/>
        <use x="438.899918" xlink:href="#FiraSans-Regular-69"/>
        <use x="467.099915" xlink:href="#FiraSans-Regular-6d"/>
-       <use x="552.799896" xlink:href="#FiraSans-Regular-e8"/>
+       <use x="552.799896" xlink:href="#FiraSans-Regular-65"/>
        <use x="607.299881" xlink:href="#FiraSans-Regular-64"/>
        <use x="667.099869" xlink:href="#FiraSans-Regular-69"/>
        <use x="695.299866" xlink:href="#FiraSans-Regular-61"/>
@@ -1629,13 +1596,90 @@ z
     </g>
     <g id="ytick_16">
      <g id="line2d_22">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1088.491304 
-L 2169.604688 1088.491304 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1169.9 
+L 2169.604688 1169.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_23">
+      <!-- EASD Llotja - Sant Andreu -->
+      <g style="fill:#262626;" transform="translate(654.453906 1182.754531)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 3027 4410 
+L 2957 3923 
+L 1248 3923 
+L 1248 2483 
+L 2733 2483 
+L 2733 1997 
+L 1248 1997 
+L 1248 486 
+L 3078 486 
+L 3078 0 
+L 640 0 
+L 640 4410 
+L 3027 4410 
+z
+" id="FiraSans-Regular-45" transform="scale(0.015625)"/>
+        <path d="M 1184 205 
+Q 1184 -262 1069 -544 
+Q 954 -826 733 -1002 
+Q 512 -1178 115 -1357 
+L -58 -928 
+Q 192 -813 326 -701 
+Q 461 -589 528 -387 
+Q 595 -186 595 166 
+L 595 3373 
+L 1184 3373 
+L 1184 205 
+z
+M 890 4992 
+Q 1075 4992 1190 4877 
+Q 1306 4762 1306 4589 
+Q 1306 4416 1190 4304 
+Q 1075 4192 890 4192 
+Q 710 4192 595 4304 
+Q 480 4416 480 4589 
+Q 480 4762 595 4877 
+Q 710 4992 890 4992 
+z
+" id="FiraSans-Regular-6a" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-45"/>
+       <use x="53.499985" xlink:href="#FiraSans-Regular-41"/>
+       <use x="110.799973" xlink:href="#FiraSans-Regular-53"/>
+       <use x="165.299957" xlink:href="#FiraSans-Regular-44"/>
+       <use x="229.699951" xlink:href="#FiraSans-Regular-20"/>
+       <use x="256.199936" xlink:href="#FiraSans-Regular-4c"/>
+       <use x="305.999924" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="335.299911" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="393.699905" xlink:href="#FiraSans-Regular-74"/>
+       <use x="429.799896" xlink:href="#FiraSans-Regular-6a"/>
+       <use x="457.799881" xlink:href="#FiraSans-Regular-61"/>
+       <use x="512.199875" xlink:href="#FiraSans-Regular-20"/>
+       <use x="538.69986" xlink:href="#FiraSans-Regular-2d"/>
+       <use x="578.999847" xlink:href="#FiraSans-Regular-20"/>
+       <use x="605.499832" xlink:href="#FiraSans-Regular-53"/>
+       <use x="659.999817" xlink:href="#FiraSans-Regular-61"/>
+       <use x="714.399811" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="772.999802" xlink:href="#FiraSans-Regular-74"/>
+       <use x="809.099792" xlink:href="#FiraSans-Regular-20"/>
+       <use x="835.599777" xlink:href="#FiraSans-Regular-41"/>
+       <use x="892.899765" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="951.499756" xlink:href="#FiraSans-Regular-64"/>
+       <use x="1011.299744" xlink:href="#FiraSans-Regular-72"/>
+       <use x="1049.899734" xlink:href="#FiraSans-Regular-65"/>
+       <use x="1104.399719" xlink:href="#FiraSans-Regular-75"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_23">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1139.7 
+L 2169.604688 1139.7 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_24">
       <!-- YATTA -->
-      <g style="fill:#262626;" transform="translate(948.014687 1100.866304)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(948.014687 1152.075)scale(0.33 -0.33)">
        <defs>
         <path d="M 3488 4410 
 L 2067 1696 
@@ -1658,15 +1702,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_17">
-     <g id="line2d_23">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1053.03913 
-L 2169.604688 1053.03913 
+    <g id="ytick_18">
+     <g id="line2d_24">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1109.5 
+L 2169.604688 1109.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_24">
+     <g id="text_25">
       <!-- Punt Òmnia Casal Cívic Barcelona - Verdum - Fundació Pare Manel -->
-      <g style="fill:#262626;" transform="translate(45.866875 1065.41413)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(45.866875 1121.875)scale(0.33 -0.33)">
        <defs>
         <path d="M 2214 4486 
 Q 2771 4486 3190 4220 
@@ -1787,15 +1831,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_18">
-     <g id="line2d_24">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1017.586957 
-L 2169.604688 1017.586957 
+    <g id="ytick_19">
+     <g id="line2d_25">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1079.3 
+L 2169.604688 1079.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_25">
+     <g id="text_26">
       <!-- Ideas Bit Factory -->
-      <g style="fill:#262626;" transform="translate(788.42875 1030.456957)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(788.42875 1092.17)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-49"/>
        <use x="29.499985" xlink:href="#FiraSans-Regular-64"/>
        <use x="89.299973" xlink:href="#FiraSans-Regular-65"/>
@@ -1816,15 +1860,15 @@ L 2169.604688 1017.586957
       </g>
      </g>
     </g>
-    <g id="ytick_19">
-     <g id="line2d_25">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 982.134783 
-L 2169.604688 982.134783 
+    <g id="ytick_20">
+     <g id="line2d_26">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1049.1 
+L 2169.604688 1049.1 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_26">
+     <g id="text_27">
       <!-- The FabLab: Make in Milano -->
-      <g style="fill:#262626;" transform="translate(624.7075 994.509783)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(624.7075 1061.475)scale(0.33 -0.33)">
        <defs>
         <path d="M 762 813 
 Q 954 813 1082 685 
@@ -1877,15 +1921,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_20">
-     <g id="line2d_26">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 946.682609 
-L 2169.604688 946.682609 
+    <g id="ytick_21">
+     <g id="line2d_27">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1018.9 
+L 2169.604688 1018.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_27">
+     <g id="text_28">
       <!-- Miocugino - officina di gesta e ingegno -->
-      <g style="fill:#262626;" transform="translate(457.959531 959.552609)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(457.959531 1031.77)scale(0.33 -0.33)">
        <defs>
         <path d="M 3328 3219 
 Q 3136 3155 2905 3136 
@@ -1982,41 +2026,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_21">
-     <g id="line2d_27">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 911.230435 
-L 2169.604688 911.230435 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_28">
-      <!-- FabLab Ventura -->
-      <g style="fill:#262626;" transform="translate(804.134687 923.605435)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-46"/>
-       <use x="49.099991" xlink:href="#FiraSans-Regular-61"/>
-       <use x="103.499985" xlink:href="#FiraSans-Regular-62"/>
-       <use x="162.899979" xlink:href="#FiraSans-Regular-4c"/>
-       <use x="212.699966" xlink:href="#FiraSans-Regular-61"/>
-       <use x="267.09996" xlink:href="#FiraSans-Regular-62"/>
-       <use x="326.499954" xlink:href="#FiraSans-Regular-20"/>
-       <use x="352.999939" xlink:href="#FiraSans-Regular-56"/>
-       <use x="408.59993" xlink:href="#FiraSans-Regular-65"/>
-       <use x="463.099915" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="521.699905" xlink:href="#FiraSans-Regular-74"/>
-       <use x="557.799896" xlink:href="#FiraSans-Regular-75"/>
-       <use x="615.999893" xlink:href="#FiraSans-Regular-72"/>
-       <use x="654.599884" xlink:href="#FiraSans-Regular-61"/>
-      </g>
-     </g>
-    </g>
     <g id="ytick_22">
      <g id="line2d_28">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 875.778261 
-L 2169.604688 875.778261 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 988.7 
+L 2169.604688 988.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_29">
       <!-- Politecnico Open unix Labs -->
-      <g style="fill:#262626;" transform="translate(632.070625 888.648261)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(632.070625 1001.57)scale(0.33 -0.33)">
        <defs>
         <path d="M 1901 1805 
 L 3072 0 
@@ -2065,13 +2083,39 @@ z
     </g>
     <g id="ytick_23">
      <g id="line2d_29">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 840.326087 
-L 2169.604688 840.326087 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 958.5 
+L 2169.604688 958.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_30">
+      <!-- FabLab Ventura -->
+      <g style="fill:#262626;" transform="translate(804.134687 970.875)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-46"/>
+       <use x="49.099991" xlink:href="#FiraSans-Regular-61"/>
+       <use x="103.499985" xlink:href="#FiraSans-Regular-62"/>
+       <use x="162.899979" xlink:href="#FiraSans-Regular-4c"/>
+       <use x="212.699966" xlink:href="#FiraSans-Regular-61"/>
+       <use x="267.09996" xlink:href="#FiraSans-Regular-62"/>
+       <use x="326.499954" xlink:href="#FiraSans-Regular-20"/>
+       <use x="352.999939" xlink:href="#FiraSans-Regular-56"/>
+       <use x="408.59993" xlink:href="#FiraSans-Regular-65"/>
+       <use x="463.099915" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="521.699905" xlink:href="#FiraSans-Regular-74"/>
+       <use x="557.799896" xlink:href="#FiraSans-Regular-75"/>
+       <use x="615.999893" xlink:href="#FiraSans-Regular-72"/>
+       <use x="654.599884" xlink:href="#FiraSans-Regular-61"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_30">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 928.3 
+L 2169.604688 928.3 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_31">
       <!-- Opendot -->
-      <g style="fill:#262626;" transform="translate(907.424687 852.701087)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(907.424687 940.675)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-4f"/>
        <use x="69.199982" xlink:href="#FiraSans-Regular-70"/>
        <use x="128.599976" xlink:href="#FiraSans-Regular-65"/>
@@ -2082,15 +2126,15 @@ L 2169.604688 840.326087
       </g>
      </g>
     </g>
-    <g id="ytick_24">
-     <g id="line2d_30">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 804.873913 
-L 2169.604688 804.873913 
+    <g id="ytick_25">
+     <g id="line2d_31">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 898.1 
+L 2169.604688 898.1 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_31">
+     <g id="text_32">
       <!-- Club Maker de l'American Space - Biblioteca Fabra i Coats -->
-      <g style="fill:#262626;" transform="translate(176.067344 817.743913)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(176.067344 910.97)scale(0.33 -0.33)">
        <defs>
         <path d="M 480 2733 
 L 384 4410 
@@ -2160,50 +2204,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_25">
-     <g id="line2d_31">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 769.421739 
-L 2169.604688 769.421739 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_32">
-      <!-- Kinlab -->
-      <g style="fill:#262626;" transform="translate(942.796562 781.796739)scale(0.33 -0.33)">
-       <defs>
-        <path d="M 1248 4410 
-L 1248 0 
-L 640 0 
-L 640 4410 
-L 1248 4410 
-z
-M 3648 4410 
-L 1978 2394 
-L 3770 0 
-L 3021 0 
-L 1280 2355 
-L 2957 4410 
-L 3648 4410 
-z
-" id="FiraSans-Regular-4b" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#FiraSans-Regular-4b"/>
-       <use x="58.899994" xlink:href="#FiraSans-Regular-69"/>
-       <use x="87.099991" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="145.699982" xlink:href="#FiraSans-Regular-6c"/>
-       <use x="174.999969" xlink:href="#FiraSans-Regular-61"/>
-       <use x="229.399963" xlink:href="#FiraSans-Regular-62"/>
-      </g>
-     </g>
-    </g>
     <g id="ytick_26">
      <g id="line2d_32">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 733.969565 
-L 2169.604688 733.969565 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 867.9 
+L 2169.604688 867.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_33">
       <!-- Ateneu de Fabricació Les Corts -->
-      <g style="fill:#262626;" transform="translate(578.54875 746.344565)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(578.54875 880.275)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-41"/>
        <use x="57.299988" xlink:href="#FiraSans-Regular-74"/>
        <use x="93.399979" xlink:href="#FiraSans-Regular-65"/>
@@ -2239,13 +2248,13 @@ L 2169.604688 733.969565
     </g>
     <g id="ytick_27">
      <g id="line2d_33">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 698.517391 
-L 2169.604688 698.517391 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 837.7 
+L 2169.604688 837.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_34">
       <!-- Ateneu de Fabricació Parc Tecnológic -->
-      <g style="fill:#262626;" transform="translate(479.945781 711.73286)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(479.945781 850.915469)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-41"/>
        <use x="57.299988" xlink:href="#FiraSans-Regular-74"/>
        <use x="93.399979" xlink:href="#FiraSans-Regular-65"/>
@@ -2287,41 +2296,209 @@ L 2169.604688 698.517391
     </g>
     <g id="ytick_28">
      <g id="line2d_34">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 663.065217 
-L 2169.604688 663.065217 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 807.5 
+L 2169.604688 807.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_35">
-      <!-- Fab Casa del Mig -->
-      <g style="fill:#262626;" transform="translate(788.784531 675.935217)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-46"/>
-       <use x="49.099991" xlink:href="#FiraSans-Regular-61"/>
-       <use x="103.499985" xlink:href="#FiraSans-Regular-62"/>
-       <use x="162.899979" xlink:href="#FiraSans-Regular-20"/>
-       <use x="189.399963" xlink:href="#FiraSans-Regular-43"/>
-       <use x="245.399948" xlink:href="#FiraSans-Regular-61"/>
-       <use x="299.799942" xlink:href="#FiraSans-Regular-73"/>
-       <use x="346.499939" xlink:href="#FiraSans-Regular-61"/>
-       <use x="400.899933" xlink:href="#FiraSans-Regular-20"/>
-       <use x="427.399918" xlink:href="#FiraSans-Regular-64"/>
-       <use x="487.199905" xlink:href="#FiraSans-Regular-65"/>
-       <use x="541.69989" xlink:href="#FiraSans-Regular-6c"/>
-       <use x="570.999878" xlink:href="#FiraSans-Regular-20"/>
-       <use x="597.499863" xlink:href="#FiraSans-Regular-4d"/>
-       <use x="675.29985" xlink:href="#FiraSans-Regular-69"/>
-       <use x="703.499847" xlink:href="#FiraSans-Regular-67"/>
+      <!-- Cibernàrium Nou Barris -->
+      <g style="fill:#262626;" transform="translate(686.453594 819.875)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 3731 0 
+L 2918 0 
+L 1126 3744 
+Q 1165 3302 1187 2928 
+Q 1210 2554 1210 2022 
+L 1210 0 
+L 640 0 
+L 640 4410 
+L 1434 4410 
+L 3245 659 
+Q 3226 826 3194 1242 
+Q 3162 1658 3162 2003 
+L 3162 4410 
+L 3731 4410 
+L 3731 0 
+z
+" id="FiraSans-Regular-4e" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-43"/>
+       <use x="55.999985" xlink:href="#FiraSans-Regular-69"/>
+       <use x="84.199982" xlink:href="#FiraSans-Regular-62"/>
+       <use x="143.599976" xlink:href="#FiraSans-Regular-65"/>
+       <use x="198.09996" xlink:href="#FiraSans-Regular-72"/>
+       <use x="236.699951" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="295.299942" xlink:href="#FiraSans-Regular-e0"/>
+       <use x="349.699936" xlink:href="#FiraSans-Regular-72"/>
+       <use x="388.299927" xlink:href="#FiraSans-Regular-69"/>
+       <use x="416.499924" xlink:href="#FiraSans-Regular-75"/>
+       <use x="474.699921" xlink:href="#FiraSans-Regular-6d"/>
+       <use x="560.399902" xlink:href="#FiraSans-Regular-20"/>
+       <use x="586.899887" xlink:href="#FiraSans-Regular-4e"/>
+       <use x="655.199875" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="713.599869" xlink:href="#FiraSans-Regular-75"/>
+       <use x="771.799866" xlink:href="#FiraSans-Regular-20"/>
+       <use x="798.29985" xlink:href="#FiraSans-Regular-42"/>
+       <use x="859.099838" xlink:href="#FiraSans-Regular-61"/>
+       <use x="913.499832" xlink:href="#FiraSans-Regular-72"/>
+       <use x="952.099823" xlink:href="#FiraSans-Regular-72"/>
+       <use x="990.699814" xlink:href="#FiraSans-Regular-69"/>
+       <use x="1018.899811" xlink:href="#FiraSans-Regular-73"/>
       </g>
      </g>
     </g>
     <g id="ytick_29">
      <g id="line2d_35">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 627.613043 
-L 2169.604688 627.613043 
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 777.3 
+L 2169.604688 777.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
      <g id="text_36">
+      <!-- Punt Multimedia FAB Casa del Mig -->
+      <g style="fill:#262626;" transform="translate(531.229844 790.17)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-50"/>
+       <use x="58.099991" xlink:href="#FiraSans-Regular-75"/>
+       <use x="116.299988" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="174.899979" xlink:href="#FiraSans-Regular-74"/>
+       <use x="210.999969" xlink:href="#FiraSans-Regular-20"/>
+       <use x="237.499954" xlink:href="#FiraSans-Regular-4d"/>
+       <use x="315.299942" xlink:href="#FiraSans-Regular-75"/>
+       <use x="373.499939" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="402.799927" xlink:href="#FiraSans-Regular-74"/>
+       <use x="438.899918" xlink:href="#FiraSans-Regular-69"/>
+       <use x="467.099915" xlink:href="#FiraSans-Regular-6d"/>
+       <use x="552.799896" xlink:href="#FiraSans-Regular-65"/>
+       <use x="607.299881" xlink:href="#FiraSans-Regular-64"/>
+       <use x="667.099869" xlink:href="#FiraSans-Regular-69"/>
+       <use x="695.299866" xlink:href="#FiraSans-Regular-61"/>
+       <use x="749.69986" xlink:href="#FiraSans-Regular-20"/>
+       <use x="776.199844" xlink:href="#FiraSans-Regular-46"/>
+       <use x="825.299835" xlink:href="#FiraSans-Regular-41"/>
+       <use x="882.599823" xlink:href="#FiraSans-Regular-42"/>
+       <use x="943.399811" xlink:href="#FiraSans-Regular-20"/>
+       <use x="969.899796" xlink:href="#FiraSans-Regular-43"/>
+       <use x="1025.89978" xlink:href="#FiraSans-Regular-61"/>
+       <use x="1080.299774" xlink:href="#FiraSans-Regular-73"/>
+       <use x="1126.999771" xlink:href="#FiraSans-Regular-61"/>
+       <use x="1181.399765" xlink:href="#FiraSans-Regular-20"/>
+       <use x="1207.89975" xlink:href="#FiraSans-Regular-64"/>
+       <use x="1267.699738" xlink:href="#FiraSans-Regular-65"/>
+       <use x="1322.199722" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="1351.49971" xlink:href="#FiraSans-Regular-20"/>
+       <use x="1377.999695" xlink:href="#FiraSans-Regular-4d"/>
+       <use x="1455.799683" xlink:href="#FiraSans-Regular-69"/>
+       <use x="1483.99968" xlink:href="#FiraSans-Regular-67"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_36">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 747.1 
+L 2169.604688 747.1 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_37">
+      <!-- Cibernàrium 22@ -->
+      <g style="fill:#262626;" transform="translate(778.095625 760.315469)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 3366 4486 
+Q 4224 4486 4838 4144 
+Q 5453 3802 5766 3226 
+Q 6080 2650 6080 1965 
+Q 6080 1133 5760 595 
+Q 5440 58 4819 58 
+Q 4461 58 4259 256 
+Q 4058 454 4000 717 
+Q 3878 435 3651 252 
+Q 3424 70 3078 70 
+Q 2566 70 2268 454 
+Q 1971 838 1971 1478 
+Q 1971 2285 2355 2717 
+Q 2739 3149 3366 3149 
+Q 3635 3149 3872 3091 
+Q 4109 3034 4371 2893 
+L 4371 1235 
+Q 4371 838 4480 675 
+Q 4589 512 4806 512 
+Q 5485 512 5485 1952 
+Q 5485 2573 5241 3033 
+Q 4998 3494 4524 3747 
+Q 4051 4000 3366 4000 
+Q 2662 4000 2134 3683 
+Q 1606 3366 1324 2806 
+Q 1043 2246 1043 1536 
+Q 1043 826 1315 278 
+Q 1587 -269 2112 -573 
+Q 2637 -877 3366 -877 
+Q 3974 -877 4595 -659 
+L 4755 -1114 
+Q 4397 -1242 4080 -1302 
+Q 3763 -1363 3360 -1363 
+Q 2502 -1363 1843 -1008 
+Q 1184 -653 816 6 
+Q 448 666 448 1536 
+Q 448 2368 816 3040 
+Q 1184 3712 1849 4099 
+Q 2515 4486 3366 4486 
+z
+M 3149 499 
+Q 3629 499 3840 1050 
+L 3840 2630 
+Q 3629 2726 3386 2726 
+Q 2547 2726 2547 1478 
+Q 2547 998 2700 748 
+Q 2854 499 3149 499 
+z
+" id="FiraSans-Regular-40" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-43"/>
+       <use x="55.999985" xlink:href="#FiraSans-Regular-69"/>
+       <use x="84.199982" xlink:href="#FiraSans-Regular-62"/>
+       <use x="143.599976" xlink:href="#FiraSans-Regular-65"/>
+       <use x="198.09996" xlink:href="#FiraSans-Regular-72"/>
+       <use x="236.699951" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="295.299942" xlink:href="#FiraSans-Regular-e0"/>
+       <use x="349.699936" xlink:href="#FiraSans-Regular-72"/>
+       <use x="388.299927" xlink:href="#FiraSans-Regular-69"/>
+       <use x="416.499924" xlink:href="#FiraSans-Regular-75"/>
+       <use x="474.699921" xlink:href="#FiraSans-Regular-6d"/>
+       <use x="560.399902" xlink:href="#FiraSans-Regular-20"/>
+       <use x="586.899887" xlink:href="#FiraSans-Regular-32"/>
+       <use x="636.399872" xlink:href="#FiraSans-Regular-32"/>
+       <use x="685.899857" xlink:href="#FiraSans-Regular-40"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_37">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 716.9 
+L 2169.604688 716.9 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_38">
+      <!-- Soko Tech -->
+      <g style="fill:#262626;" transform="translate(885.773594 729.275)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-53"/>
+       <use x="54.499985" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="112.899979" xlink:href="#FiraSans-Regular-6b"/>
+       <use x="164.099976" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="222.499969" xlink:href="#FiraSans-Regular-20"/>
+       <use x="248.999954" xlink:href="#FiraSans-Regular-54"/>
+       <use x="300.699951" xlink:href="#FiraSans-Regular-65"/>
+       <use x="355.199936" xlink:href="#FiraSans-Regular-63"/>
+       <use x="402.999924" xlink:href="#FiraSans-Regular-68"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_38">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 686.7 
+L 2169.604688 686.7 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_39">
       <!-- Milano Luiss Hub -->
-      <g style="fill:#262626;" transform="translate(782.380469 639.988043)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(782.380469 699.075)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-4d"/>
        <use x="77.799988" xlink:href="#FiraSans-Regular-69"/>
        <use x="105.999985" xlink:href="#FiraSans-Regular-6c"/>
@@ -2341,36 +2518,50 @@ L 2169.604688 627.613043
       </g>
      </g>
     </g>
-    <g id="ytick_30">
-     <g id="line2d_36">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 592.16087 
-L 2169.604688 592.16087 
+    <g id="ytick_33">
+     <g id="line2d_39">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 656.5 
+L 2169.604688 656.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_37">
-      <!-- Soko Tech -->
-      <g style="fill:#262626;" transform="translate(885.773594 604.53587)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-53"/>
-       <use x="54.499985" xlink:href="#FiraSans-Regular-6f"/>
-       <use x="112.899979" xlink:href="#FiraSans-Regular-6b"/>
-       <use x="164.099976" xlink:href="#FiraSans-Regular-6f"/>
-       <use x="222.499969" xlink:href="#FiraSans-Regular-20"/>
-       <use x="248.999954" xlink:href="#FiraSans-Regular-54"/>
-       <use x="300.699951" xlink:href="#FiraSans-Regular-65"/>
-       <use x="355.199936" xlink:href="#FiraSans-Regular-63"/>
-       <use x="402.999924" xlink:href="#FiraSans-Regular-68"/>
+     <g id="text_40">
+      <!-- Kinlab -->
+      <g style="fill:#262626;" transform="translate(942.796562 668.875)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 1248 4410 
+L 1248 0 
+L 640 0 
+L 640 4410 
+L 1248 4410 
+z
+M 3648 4410 
+L 1978 2394 
+L 3770 0 
+L 3021 0 
+L 1280 2355 
+L 2957 4410 
+L 3648 4410 
+z
+" id="FiraSans-Regular-4b" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-4b"/>
+       <use x="58.899994" xlink:href="#FiraSans-Regular-69"/>
+       <use x="87.099991" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="145.699982" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="174.999969" xlink:href="#FiraSans-Regular-61"/>
+       <use x="229.399963" xlink:href="#FiraSans-Regular-62"/>
       </g>
      </g>
     </g>
-    <g id="ytick_31">
-     <g id="line2d_37">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 556.708696 
-L 2169.604688 556.708696 
+    <g id="ytick_34">
+     <g id="line2d_40">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 626.3 
+L 2169.604688 626.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_38">
+     <g id="text_41">
       <!-- Maker Convent -->
-      <g style="fill:#262626;" transform="translate(815.555781 569.083696)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(815.555781 638.675)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-4d"/>
        <use x="77.799988" xlink:href="#FiraSans-Regular-61"/>
        <use x="132.199982" xlink:href="#FiraSans-Regular-6b"/>
@@ -2387,61 +2578,15 @@ L 2169.604688 556.708696
       </g>
      </g>
     </g>
-    <g id="ytick_32">
-     <g id="line2d_38">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 521.256522 
-L 2169.604688 521.256522 
+    <g id="ytick_35">
+     <g id="line2d_41">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 596.1 
+L 2169.604688 596.1 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_39">
-      <!-- Fab Lab Barcelona -->
-      <g style="fill:#262626;" transform="translate(762.121562 533.631522)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-46"/>
-       <use x="49.099991" xlink:href="#FiraSans-Regular-61"/>
-       <use x="103.499985" xlink:href="#FiraSans-Regular-62"/>
-       <use x="162.899979" xlink:href="#FiraSans-Regular-20"/>
-       <use x="189.399963" xlink:href="#FiraSans-Regular-4c"/>
-       <use x="239.199951" xlink:href="#FiraSans-Regular-61"/>
-       <use x="293.599945" xlink:href="#FiraSans-Regular-62"/>
-       <use x="352.999939" xlink:href="#FiraSans-Regular-20"/>
-       <use x="379.499924" xlink:href="#FiraSans-Regular-42"/>
-       <use x="440.299911" xlink:href="#FiraSans-Regular-61"/>
-       <use x="494.699905" xlink:href="#FiraSans-Regular-72"/>
-       <use x="533.299896" xlink:href="#FiraSans-Regular-63"/>
-       <use x="581.099884" xlink:href="#FiraSans-Regular-65"/>
-       <use x="635.599869" xlink:href="#FiraSans-Regular-6c"/>
-       <use x="664.899857" xlink:href="#FiraSans-Regular-6f"/>
-       <use x="723.29985" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="781.899841" xlink:href="#FiraSans-Regular-61"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_33">
-     <g id="line2d_39">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 485.804348 
-L 2169.604688 485.804348 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_40">
+     <g id="text_42">
       <!-- MADE Makerspace Barcelona -->
-      <g style="fill:#262626;" transform="translate(608.408594 498.179348)scale(0.33 -0.33)">
-       <defs>
-        <path d="M 3027 4410 
-L 2957 3923 
-L 1248 3923 
-L 1248 2483 
-L 2733 2483 
-L 2733 1997 
-L 1248 1997 
-L 1248 486 
-L 3078 486 
-L 3078 0 
-L 640 0 
-L 640 4410 
-L 3027 4410 
-z
-" id="FiraSans-Regular-45" transform="scale(0.015625)"/>
-       </defs>
+      <g style="fill:#262626;" transform="translate(608.408594 608.475)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-4d"/>
        <use x="77.799988" xlink:href="#FiraSans-Regular-41"/>
        <use x="135.099976" xlink:href="#FiraSans-Regular-44"/>
@@ -2470,15 +2615,44 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_34">
-     <g id="line2d_40">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 450.352174 
-L 2169.604688 450.352174 
+    <g id="ytick_36">
+     <g id="line2d_42">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 565.9 
+L 2169.604688 565.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_41">
+     <g id="text_43">
+      <!-- Fab Lab Barcelona -->
+      <g style="fill:#262626;" transform="translate(762.121562 578.275)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-46"/>
+       <use x="49.099991" xlink:href="#FiraSans-Regular-61"/>
+       <use x="103.499985" xlink:href="#FiraSans-Regular-62"/>
+       <use x="162.899979" xlink:href="#FiraSans-Regular-20"/>
+       <use x="189.399963" xlink:href="#FiraSans-Regular-4c"/>
+       <use x="239.199951" xlink:href="#FiraSans-Regular-61"/>
+       <use x="293.599945" xlink:href="#FiraSans-Regular-62"/>
+       <use x="352.999939" xlink:href="#FiraSans-Regular-20"/>
+       <use x="379.499924" xlink:href="#FiraSans-Regular-42"/>
+       <use x="440.299911" xlink:href="#FiraSans-Regular-61"/>
+       <use x="494.699905" xlink:href="#FiraSans-Regular-72"/>
+       <use x="533.299896" xlink:href="#FiraSans-Regular-63"/>
+       <use x="581.099884" xlink:href="#FiraSans-Regular-65"/>
+       <use x="635.599869" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="664.899857" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="723.29985" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="781.899841" xlink:href="#FiraSans-Regular-61"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_43">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 535.7 
+L 2169.604688 535.7 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_44">
       <!-- IED Maker Lab -->
-      <g style="fill:#262626;" transform="translate(826.734531 462.727174)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(826.734531 548.075)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-49"/>
        <use x="29.499985" xlink:href="#FiraSans-Regular-45"/>
        <use x="82.999969" xlink:href="#FiraSans-Regular-44"/>
@@ -2495,15 +2669,15 @@ L 2169.604688 450.352174
       </g>
      </g>
     </g>
-    <g id="ytick_35">
-     <g id="line2d_41">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 414.9 
-L 2169.604688 414.9 
+    <g id="ytick_38">
+     <g id="line2d_44">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 505.5 
+L 2169.604688 505.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_42">
+     <g id="text_45">
       <!-- FabCafé Barcelona -->
-      <g style="fill:#262626;" transform="translate(759.383594 427.275)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(759.383594 517.875)scale(0.33 -0.33)">
        <defs>
         <path d="M 3155 1786 
 Q 3155 1638 3142 1485 
@@ -2557,15 +2731,56 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_36">
-     <g id="line2d_42">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 379.447826 
-L 2169.604688 379.447826 
+    <g id="ytick_39">
+     <g id="line2d_45">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 475.3 
+L 2169.604688 475.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_43">
+     <g id="text_46">
+      <!-- Canodrom -->
+      <g style="fill:#262626;" transform="translate(883.035625 487.675)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-43"/>
+       <use x="55.999985" xlink:href="#FiraSans-Regular-61"/>
+       <use x="110.399979" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="168.999969" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="227.399963" xlink:href="#FiraSans-Regular-64"/>
+       <use x="287.199951" xlink:href="#FiraSans-Regular-72"/>
+       <use x="325.799942" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="384.199936" xlink:href="#FiraSans-Regular-6d"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_46">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 445.1 
+L 2169.604688 445.1 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_47">
+      <!-- LSCongres -->
+      <g style="fill:#262626;" transform="translate(883.30375 457.475)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-4c"/>
+       <use x="49.799988" xlink:href="#FiraSans-Regular-53"/>
+       <use x="104.299973" xlink:href="#FiraSans-Regular-43"/>
+       <use x="160.299957" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="218.699951" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="277.299942" xlink:href="#FiraSans-Regular-67"/>
+       <use x="329.299927" xlink:href="#FiraSans-Regular-72"/>
+       <use x="367.899918" xlink:href="#FiraSans-Regular-65"/>
+       <use x="422.399902" xlink:href="#FiraSans-Regular-73"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="line2d_47">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 414.9 
+L 2169.604688 414.9 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_48">
       <!-- Makers Zone BCN -->
-      <g style="fill:#262626;" transform="translate(779.054688 391.822826)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(779.054688 427.275)scale(0.33 -0.33)">
        <defs>
         <path d="M 3053 4410 
 L 3053 3917 
@@ -2580,23 +2795,6 @@ L 422 4410
 L 3053 4410 
 z
 " id="FiraSans-Regular-5a" transform="scale(0.015625)"/>
-        <path d="M 3731 0 
-L 2918 0 
-L 1126 3744 
-Q 1165 3302 1187 2928 
-Q 1210 2554 1210 2022 
-L 1210 0 
-L 640 0 
-L 640 4410 
-L 1434 4410 
-L 3245 659 
-Q 3226 826 3194 1242 
-Q 3162 1658 3162 2003 
-L 3162 4410 
-L 3731 4410 
-L 3731 0 
-z
-" id="FiraSans-Regular-4e" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#FiraSans-Regular-4d"/>
        <use x="77.799988" xlink:href="#FiraSans-Regular-61"/>
@@ -2616,36 +2814,42 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_37">
-     <g id="line2d_43">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 343.995652 
-L 2169.604688 343.995652 
+    <g id="ytick_42">
+     <g id="line2d_48">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 384.7 
+L 2169.604688 384.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_44">
-      <!-- LSCongres -->
-      <g style="fill:#262626;" transform="translate(883.30375 356.370652)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-4c"/>
-       <use x="49.799988" xlink:href="#FiraSans-Regular-53"/>
-       <use x="104.299973" xlink:href="#FiraSans-Regular-43"/>
-       <use x="160.299957" xlink:href="#FiraSans-Regular-6f"/>
-       <use x="218.699951" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="277.299942" xlink:href="#FiraSans-Regular-67"/>
-       <use x="329.299927" xlink:href="#FiraSans-Regular-72"/>
-       <use x="367.899918" xlink:href="#FiraSans-Regular-65"/>
-       <use x="422.399902" xlink:href="#FiraSans-Regular-73"/>
+     <g id="text_49">
+      <!-- Fundació Comtal -->
+      <g style="fill:#262626;" transform="translate(787.005625 397.075)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-46"/>
+       <use x="49.099991" xlink:href="#FiraSans-Regular-75"/>
+       <use x="107.299988" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="165.899979" xlink:href="#FiraSans-Regular-64"/>
+       <use x="225.699966" xlink:href="#FiraSans-Regular-61"/>
+       <use x="280.09996" xlink:href="#FiraSans-Regular-63"/>
+       <use x="327.899948" xlink:href="#FiraSans-Regular-69"/>
+       <use x="356.099945" xlink:href="#FiraSans-Regular-f3"/>
+       <use x="414.499939" xlink:href="#FiraSans-Regular-20"/>
+       <use x="440.999924" xlink:href="#FiraSans-Regular-43"/>
+       <use x="496.999908" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="555.399902" xlink:href="#FiraSans-Regular-6d"/>
+       <use x="641.099884" xlink:href="#FiraSans-Regular-74"/>
+       <use x="677.199875" xlink:href="#FiraSans-Regular-61"/>
+       <use x="731.599869" xlink:href="#FiraSans-Regular-6c"/>
       </g>
      </g>
     </g>
-    <g id="ytick_38">
-     <g id="line2d_44">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 308.543478 
-L 2169.604688 308.543478 
+    <g id="ytick_43">
+     <g id="line2d_49">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 354.5 
+L 2169.604688 354.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_45">
+     <g id="text_50">
       <!-- SuperForma -->
-      <g style="fill:#262626;" transform="translate(856.140625 320.918478)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(856.140625 366.875)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-53"/>
        <use x="54.499985" xlink:href="#FiraSans-Regular-75"/>
        <use x="112.699982" xlink:href="#FiraSans-Regular-70"/>
@@ -2659,15 +2863,86 @@ L 2169.604688 308.543478
       </g>
      </g>
     </g>
-    <g id="ytick_39">
-     <g id="line2d_45">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 273.091304 
-L 2169.604688 273.091304 
+    <g id="ytick_44">
+     <g id="line2d_50">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 324.3 
+L 2169.604688 324.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_46">
+     <g id="text_51">
+      <!-- Fundació Avismón -->
+      <g style="fill:#262626;" transform="translate(765.818594 336.675)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-46"/>
+       <use x="49.099991" xlink:href="#FiraSans-Regular-75"/>
+       <use x="107.299988" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="165.899979" xlink:href="#FiraSans-Regular-64"/>
+       <use x="225.699966" xlink:href="#FiraSans-Regular-61"/>
+       <use x="280.09996" xlink:href="#FiraSans-Regular-63"/>
+       <use x="327.899948" xlink:href="#FiraSans-Regular-69"/>
+       <use x="356.099945" xlink:href="#FiraSans-Regular-f3"/>
+       <use x="414.499939" xlink:href="#FiraSans-Regular-20"/>
+       <use x="440.999924" xlink:href="#FiraSans-Regular-41"/>
+       <use x="498.299911" xlink:href="#FiraSans-Regular-76"/>
+       <use x="547.499908" xlink:href="#FiraSans-Regular-69"/>
+       <use x="575.699905" xlink:href="#FiraSans-Regular-73"/>
+       <use x="622.399902" xlink:href="#FiraSans-Regular-6d"/>
+       <use x="708.099884" xlink:href="#FiraSans-Regular-f3"/>
+       <use x="766.499878" xlink:href="#FiraSans-Regular-6e"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_51">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 294.1 
+L 2169.604688 294.1 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_52">
+      <!-- Ateneu de Fabricació Ca L'Alier -->
+      <g style="fill:#262626;" transform="translate(577.491719 306.475)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-41"/>
+       <use x="57.299988" xlink:href="#FiraSans-Regular-74"/>
+       <use x="93.399979" xlink:href="#FiraSans-Regular-65"/>
+       <use x="147.899963" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="206.499954" xlink:href="#FiraSans-Regular-65"/>
+       <use x="260.999939" xlink:href="#FiraSans-Regular-75"/>
+       <use x="319.199936" xlink:href="#FiraSans-Regular-20"/>
+       <use x="345.699921" xlink:href="#FiraSans-Regular-64"/>
+       <use x="405.499908" xlink:href="#FiraSans-Regular-65"/>
+       <use x="459.999893" xlink:href="#FiraSans-Regular-20"/>
+       <use x="486.499878" xlink:href="#FiraSans-Regular-46"/>
+       <use x="535.599869" xlink:href="#FiraSans-Regular-61"/>
+       <use x="589.999863" xlink:href="#FiraSans-Regular-62"/>
+       <use x="649.399857" xlink:href="#FiraSans-Regular-72"/>
+       <use x="687.999847" xlink:href="#FiraSans-Regular-69"/>
+       <use x="716.199844" xlink:href="#FiraSans-Regular-63"/>
+       <use x="763.999832" xlink:href="#FiraSans-Regular-61"/>
+       <use x="818.399826" xlink:href="#FiraSans-Regular-63"/>
+       <use x="866.199814" xlink:href="#FiraSans-Regular-69"/>
+       <use x="894.399811" xlink:href="#FiraSans-Regular-f3"/>
+       <use x="952.799805" xlink:href="#FiraSans-Regular-20"/>
+       <use x="979.299789" xlink:href="#FiraSans-Regular-43"/>
+       <use x="1035.299774" xlink:href="#FiraSans-Regular-61"/>
+       <use x="1089.699768" xlink:href="#FiraSans-Regular-20"/>
+       <use x="1116.199753" xlink:href="#FiraSans-Regular-4c"/>
+       <use x="1165.999741" xlink:href="#FiraSans-Regular-27"/>
+       <use x="1187.899734" xlink:href="#FiraSans-Regular-41"/>
+       <use x="1245.199722" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="1274.49971" xlink:href="#FiraSans-Regular-69"/>
+       <use x="1302.699707" xlink:href="#FiraSans-Regular-65"/>
+       <use x="1357.199692" xlink:href="#FiraSans-Regular-72"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="line2d_52">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 263.9 
+L 2169.604688 263.9 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_53">
       <!-- Ateneu de Fabricació Gràcia -->
-      <g style="fill:#262626;" transform="translate(620.391719 285.466304)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(620.391719 276.275)scale(0.33 -0.33)">
        <defs>
         <path d="M 2266 4486 
 Q 2682 4486 2986 4368 
@@ -2725,15 +3000,15 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_40">
-     <g id="line2d_46">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 237.63913 
-L 2169.604688 237.63913 
+    <g id="ytick_47">
+     <g id="line2d_53">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 233.7 
+L 2169.604688 233.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_47">
+     <g id="text_54">
       <!-- DIY Bio Barcelona -->
-      <g style="fill:#262626;" transform="translate(772.088594 250.01413)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(772.088594 246.075)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-44"/>
        <use x="64.399994" xlink:href="#FiraSans-Regular-49"/>
        <use x="93.899979" xlink:href="#FiraSans-Regular-59"/>
@@ -2754,44 +3029,97 @@ L 2169.604688 237.63913
       </g>
      </g>
     </g>
-    <g id="ytick_41">
-     <g id="line2d_47">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 202.186957 
-L 2169.604688 202.186957 
+    <g id="ytick_48">
+     <g id="line2d_54">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 203.5 
+L 2169.604688 203.5 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_48">
-      <!-- Ateneu Ca L'Alier -->
-      <g style="fill:#262626;" transform="translate(786.582812 214.561957)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-41"/>
-       <use x="57.299988" xlink:href="#FiraSans-Regular-74"/>
-       <use x="93.399979" xlink:href="#FiraSans-Regular-65"/>
-       <use x="147.899963" xlink:href="#FiraSans-Regular-6e"/>
-       <use x="206.499954" xlink:href="#FiraSans-Regular-65"/>
-       <use x="260.999939" xlink:href="#FiraSans-Regular-75"/>
-       <use x="319.199936" xlink:href="#FiraSans-Regular-20"/>
-       <use x="345.699921" xlink:href="#FiraSans-Regular-43"/>
-       <use x="401.699905" xlink:href="#FiraSans-Regular-61"/>
-       <use x="456.099899" xlink:href="#FiraSans-Regular-20"/>
-       <use x="482.599884" xlink:href="#FiraSans-Regular-4c"/>
-       <use x="532.399872" xlink:href="#FiraSans-Regular-27"/>
-       <use x="554.299866" xlink:href="#FiraSans-Regular-41"/>
-       <use x="611.599854" xlink:href="#FiraSans-Regular-6c"/>
-       <use x="640.899841" xlink:href="#FiraSans-Regular-69"/>
-       <use x="669.099838" xlink:href="#FiraSans-Regular-65"/>
-       <use x="723.599823" xlink:href="#FiraSans-Regular-72"/>
+     <g id="text_55">
+      <!-- Espai Jove Casa Sagnier -->
+      <g style="fill:#262626;" transform="translate(686.113281 216.37)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 1344 614 
+Q 1344 -38 1059 -364 
+Q 774 -691 192 -877 
+L 32 -435 
+Q 326 -320 473 -185 
+Q 621 -51 678 141 
+Q 736 333 736 640 
+L 736 4410 
+L 1344 4410 
+L 1344 614 
+z
+" id="FiraSans-Regular-4a" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-45"/>
+       <use x="53.499985" xlink:href="#FiraSans-Regular-73"/>
+       <use x="100.199982" xlink:href="#FiraSans-Regular-70"/>
+       <use x="159.599976" xlink:href="#FiraSans-Regular-61"/>
+       <use x="213.999969" xlink:href="#FiraSans-Regular-69"/>
+       <use x="242.199966" xlink:href="#FiraSans-Regular-20"/>
+       <use x="268.699951" xlink:href="#FiraSans-Regular-4a"/>
+       <use x="299.199936" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="357.59993" xlink:href="#FiraSans-Regular-76"/>
+       <use x="406.799927" xlink:href="#FiraSans-Regular-65"/>
+       <use x="461.299911" xlink:href="#FiraSans-Regular-20"/>
+       <use x="487.799896" xlink:href="#FiraSans-Regular-43"/>
+       <use x="543.799881" xlink:href="#FiraSans-Regular-61"/>
+       <use x="598.199875" xlink:href="#FiraSans-Regular-73"/>
+       <use x="644.899872" xlink:href="#FiraSans-Regular-61"/>
+       <use x="699.299866" xlink:href="#FiraSans-Regular-20"/>
+       <use x="725.79985" xlink:href="#FiraSans-Regular-53"/>
+       <use x="780.299835" xlink:href="#FiraSans-Regular-61"/>
+       <use x="834.699829" xlink:href="#FiraSans-Regular-67"/>
+       <use x="886.699814" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="945.299805" xlink:href="#FiraSans-Regular-69"/>
+       <use x="973.499802" xlink:href="#FiraSans-Regular-65"/>
+       <use x="1027.999786" xlink:href="#FiraSans-Regular-72"/>
       </g>
      </g>
     </g>
-    <g id="ytick_42">
-     <g id="line2d_48">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 166.734783 
-L 2169.604688 166.734783 
+    <g id="ytick_49">
+     <g id="line2d_55">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 173.3 
+L 2169.604688 173.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_49">
+     <g id="text_56">
+      <!-- Racó.net del Guinardó -->
+      <g style="fill:#262626;" transform="translate(704.742812 185.675)scale(0.33 -0.33)">
+       <use xlink:href="#FiraSans-Regular-52"/>
+       <use x="60.499985" xlink:href="#FiraSans-Regular-61"/>
+       <use x="114.899979" xlink:href="#FiraSans-Regular-63"/>
+       <use x="162.699966" xlink:href="#FiraSans-Regular-f3"/>
+       <use x="221.09996" xlink:href="#FiraSans-Regular-2e"/>
+       <use x="245.099945" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="303.699936" xlink:href="#FiraSans-Regular-65"/>
+       <use x="358.199921" xlink:href="#FiraSans-Regular-74"/>
+       <use x="394.299911" xlink:href="#FiraSans-Regular-20"/>
+       <use x="420.799896" xlink:href="#FiraSans-Regular-64"/>
+       <use x="480.599884" xlink:href="#FiraSans-Regular-65"/>
+       <use x="535.099869" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="564.399857" xlink:href="#FiraSans-Regular-20"/>
+       <use x="590.899841" xlink:href="#FiraSans-Regular-47"/>
+       <use x="653.999832" xlink:href="#FiraSans-Regular-75"/>
+       <use x="712.199829" xlink:href="#FiraSans-Regular-69"/>
+       <use x="740.399826" xlink:href="#FiraSans-Regular-6e"/>
+       <use x="798.999817" xlink:href="#FiraSans-Regular-61"/>
+       <use x="853.399811" xlink:href="#FiraSans-Regular-72"/>
+       <use x="891.999802" xlink:href="#FiraSans-Regular-64"/>
+       <use x="951.799789" xlink:href="#FiraSans-Regular-f3"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_50">
+     <g id="line2d_56">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 143.1 
+L 2169.604688 143.1 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_57">
       <!-- AKASHA Hub Barcelona -->
-      <g style="fill:#262626;" transform="translate(692.032656 179.109783)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(692.032656 155.475)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-41"/>
        <use x="57.299988" xlink:href="#FiraSans-Regular-4b"/>
        <use x="116.199982" xlink:href="#FiraSans-Regular-41"/>
@@ -2815,35 +3143,15 @@ L 2169.604688 166.734783
       </g>
      </g>
     </g>
-    <g id="ytick_43">
-     <g id="line2d_49">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 131.282609 
-L 2169.604688 131.282609 
+    <g id="ytick_51">
+     <g id="line2d_57">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 112.9 
+L 2169.604688 112.9 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_50">
-      <!-- RavalFab -->
-      <g style="fill:#262626;" transform="translate(902.5675 143.657609)scale(0.33 -0.33)">
-       <use xlink:href="#FiraSans-Regular-52"/>
-       <use x="60.499985" xlink:href="#FiraSans-Regular-61"/>
-       <use x="114.899979" xlink:href="#FiraSans-Regular-76"/>
-       <use x="164.099976" xlink:href="#FiraSans-Regular-61"/>
-       <use x="218.499969" xlink:href="#FiraSans-Regular-6c"/>
-       <use x="247.799957" xlink:href="#FiraSans-Regular-46"/>
-       <use x="296.899948" xlink:href="#FiraSans-Regular-61"/>
-       <use x="351.299942" xlink:href="#FiraSans-Regular-62"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_44">
-     <g id="line2d_50">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 95.830435 
-L 2169.604688 95.830435 
-" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
-     </g>
-     <g id="text_51">
+     <g id="text_58">
       <!-- ATTA33 -->
-      <g style="fill:#262626;" transform="translate(933.226562 108.205435)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(933.226562 125.275)scale(0.33 -0.33)">
        <defs>
         <path d="M 1440 4346 
 Q 1837 4346 2121 4198 
@@ -2888,15 +3196,55 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_45">
-     <g id="line2d_51">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 60.378261 
-L 2169.604688 60.378261 
+    <g id="ytick_52">
+     <g id="line2d_58">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 82.7 
+L 2169.604688 82.7 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_52">
+     <g id="text_59">
+      <!-- RavalFab / Colectic -->
+      <g style="fill:#262626;" transform="translate(749.746562 95.075)scale(0.33 -0.33)">
+       <defs>
+        <path d="M 2157 5165 
+L 2656 5050 
+L 1178 -666 
+L 672 -544 
+L 2157 5165 
+z
+" id="FiraSans-Regular-2f" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraSans-Regular-52"/>
+       <use x="60.499985" xlink:href="#FiraSans-Regular-61"/>
+       <use x="114.899979" xlink:href="#FiraSans-Regular-76"/>
+       <use x="164.099976" xlink:href="#FiraSans-Regular-61"/>
+       <use x="218.499969" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="247.799957" xlink:href="#FiraSans-Regular-46"/>
+       <use x="296.899948" xlink:href="#FiraSans-Regular-61"/>
+       <use x="351.299942" xlink:href="#FiraSans-Regular-62"/>
+       <use x="410.699936" xlink:href="#FiraSans-Regular-20"/>
+       <use x="437.199921" xlink:href="#FiraSans-Regular-2f"/>
+       <use x="489.199905" xlink:href="#FiraSans-Regular-20"/>
+       <use x="515.69989" xlink:href="#FiraSans-Regular-43"/>
+       <use x="571.699875" xlink:href="#FiraSans-Regular-6f"/>
+       <use x="630.099869" xlink:href="#FiraSans-Regular-6c"/>
+       <use x="659.399857" xlink:href="#FiraSans-Regular-65"/>
+       <use x="713.899841" xlink:href="#FiraSans-Regular-63"/>
+       <use x="761.699829" xlink:href="#FiraSans-Regular-74"/>
+       <use x="797.79982" xlink:href="#FiraSans-Regular-69"/>
+       <use x="825.999817" xlink:href="#FiraSans-Regular-63"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="line2d_59">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 52.5 
+L 2169.604688 52.5 
+" style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
+     </g>
+     <g id="text_60">
       <!-- DamASpace -->
-      <g style="fill:#262626;" transform="translate(862.405469 72.753261)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(862.405469 64.875)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-44"/>
        <use x="64.399994" xlink:href="#FiraSans-Regular-61"/>
        <use x="118.799988" xlink:href="#FiraSans-Regular-6d"/>
@@ -2909,15 +3257,15 @@ L 2169.604688 60.378261
       </g>
      </g>
     </g>
-    <g id="ytick_46">
-     <g id="line2d_52">
-      <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 24.926087 
-L 2169.604688 24.926087 
+    <g id="ytick_54">
+     <g id="line2d_60">
+      <path clip-path="url(#p2323ff4774)" d="M 1053.604687 22.3 
+L 2169.604688 22.3 
 " style="fill:none;stroke:#cccccc;stroke-linecap:round;stroke-width:2;"/>
      </g>
-     <g id="text_53">
+     <g id="text_61">
       <!-- Danaus -->
-      <g style="fill:#262626;" transform="translate(926.9875 37.301087)scale(0.33 -0.33)">
+      <g style="fill:#262626;" transform="translate(926.9875 34.675)scale(0.33 -0.33)">
        <use xlink:href="#FiraSans-Regular-44"/>
        <use x="64.399994" xlink:href="#FiraSans-Regular-61"/>
        <use x="118.799988" xlink:href="#FiraSans-Regular-6e"/>
@@ -2927,7 +3275,7 @@ L 2169.604688 24.926087
       </g>
      </g>
     </g>
-    <g id="text_54">
+    <g id="text_62">
      <!-- Labs -->
      <g style="fill:#262626;" transform="translate(34.2 860.45625)rotate(-90)scale(0.36 -0.36)">
       <use xlink:href="#FiraSans-Regular-4c"/>
@@ -2938,396 +3286,460 @@ L 2169.604688 24.926087
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1629.136957 
-L 1193.534177 1629.136957 
-L 1193.534177 1611.41087 
-L 1053.604687 1611.41087 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1630.45 
+L 1193.519908 1630.45 
+L 1193.519908 1615.35 
+L 1053.604687 1615.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1593.684783 
-L 1278.077168 1593.684783 
-L 1278.077168 1575.958696 
-L 1053.604687 1575.958696 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1600.25 
+L 1278.054279 1600.25 
+L 1278.054279 1585.15 
+L 1053.604687 1585.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1558.232609 
-L 1407.601366 1558.232609 
-L 1407.601366 1540.506522 
-L 1053.604687 1540.506522 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1570.05 
+L 1392.609189 1570.05 
+L 1392.609189 1554.95 
+L 1053.604687 1554.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1522.780435 
-L 1565.740115 1522.780435 
-L 1565.740115 1505.054348 
-L 1053.604687 1505.054348 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1539.85 
+L 1565.687893 1539.85 
+L 1565.687893 1524.75 
+L 1053.604687 1524.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1487.328261 
-L 1596.305658 1487.328261 
-L 1596.305658 1469.602174 
-L 1053.604687 1469.602174 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1509.65 
+L 1588.989034 1509.65 
+L 1588.989034 1494.55 
+L 1053.604687 1494.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1451.876087 
-L 1608.119999 1451.876087 
-L 1608.119999 1434.15 
-L 1053.604687 1434.15 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1479.45 
+L 1642.202336 1479.45 
+L 1642.202336 1464.35 
+L 1053.604687 1464.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_9">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1416.423913 
-L 1636.626161 1416.423913 
-L 1636.626161 1398.697826 
-L 1053.604687 1398.697826 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1449.25 
+L 1644.15313 1449.25 
+L 1644.15313 1434.15 
+L 1053.604687 1434.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1380.971739 
-L 1652.12571 1380.971739 
-L 1652.12571 1363.245652 
-L 1053.604687 1363.245652 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1419.05 
+L 1679.700916 1419.05 
+L 1679.700916 1403.95 
+L 1053.604687 1403.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_11">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1345.519565 
-L 1672.285961 1345.519565 
-L 1672.285961 1327.793478 
-L 1053.604687 1327.793478 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1388.85 
+L 1726.736707 1388.85 
+L 1726.736707 1373.75 
+L 1053.604687 1373.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_12">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1310.067391 
-L 1723.987252 1310.067391 
-L 1723.987252 1292.341304 
-L 1053.604687 1292.341304 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1358.65 
+L 1743.210071 1358.65 
+L 1743.210071 1343.55 
+L 1053.604687 1343.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_13">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1274.615217 
-L 1764.307756 1274.615217 
-L 1764.307756 1256.88913 
-L 1053.604687 1256.88913 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1328.45 
+L 1759.033172 1328.45 
+L 1759.033172 1313.35 
+L 1053.604687 1313.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_14">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1239.163043 
-L 1776.772427 1239.163043 
-L 1776.772427 1221.436957 
-L 1053.604687 1221.436957 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1298.25 
+L 1793.063675 1298.25 
+L 1793.063675 1283.15 
+L 1053.604687 1283.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_15">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1203.71087 
-L 1792.380364 1203.71087 
-L 1792.380364 1185.984783 
-L 1053.604687 1185.984783 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1268.05 
+L 1799.566318 1268.05 
+L 1799.566318 1252.95 
+L 1053.604687 1252.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_16">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1168.258696 
-L 1836.819629 1168.258696 
-L 1836.819629 1150.532609 
-L 1053.604687 1150.532609 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1237.85 
+L 1835.655992 1237.85 
+L 1835.655992 1222.75 
+L 1053.604687 1222.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_17">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1132.806522 
-L 1855.570831 1132.806522 
-L 1855.570831 1115.080435 
-L 1053.604687 1115.080435 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1207.65 
+L 1859.06551 1207.65 
+L 1859.06551 1192.55 
+L 1053.604687 1192.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_18">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1097.354348 
-L 1874.755586 1097.354348 
-L 1874.755586 1079.628261 
-L 1053.604687 1079.628261 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1177.45 
+L 1861.233058 1177.45 
+L 1861.233058 1162.35 
+L 1053.604687 1162.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_19">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1061.902174 
-L 1879.307901 1061.902174 
-L 1879.307901 1044.176087 
-L 1053.604687 1044.176087 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1147.25 
+L 1876.514271 1147.25 
+L 1876.514271 1132.15 
+L 1053.604687 1132.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_20">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 1026.45 
-L 1884.835712 1026.45 
-L 1884.835712 1008.723913 
-L 1053.604687 1008.723913 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1117.05 
+L 1882.908538 1117.05 
+L 1882.908538 1101.95 
+L 1053.604687 1101.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_21">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 990.997826 
-L 1897.083607 990.997826 
-L 1897.083607 973.271739 
-L 1053.604687 973.271739 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1086.85 
+L 1892.228994 1086.85 
+L 1892.228994 1071.75 
+L 1053.604687 1071.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_22">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 955.545652 
-L 1908.464394 955.545652 
-L 1908.464394 937.819565 
-L 1053.604687 937.819565 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1056.65 
+L 1893.963032 1056.65 
+L 1893.963032 1041.55 
+L 1053.604687 1041.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_23">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 920.093478 
-L 1918.54452 920.093478 
-L 1918.54452 902.367391 
-L 1053.604687 902.367391 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 1026.45 
+L 1910.002887 1026.45 
+L 1910.002887 1011.35 
+L 1053.604687 1011.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_24">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 884.641304 
-L 1927.107208 884.641304 
-L 1927.107208 866.915217 
-L 1053.604687 866.915217 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 996.25 
+L 1911.845303 996.25 
+L 1911.845303 981.15 
+L 1053.604687 981.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_25">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 849.18913 
-L 1969.703869 849.18913 
-L 1969.703869 831.463043 
-L 1053.604687 831.463043 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 966.05 
+L 1920.190362 966.05 
+L 1920.190362 950.95 
+L 1053.604687 950.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_26">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 813.736957 
-L 1972.630357 813.736957 
-L 1972.630357 796.01087 
-L 1053.604687 796.01087 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 935.85 
+L 1969.718833 935.85 
+L 1969.718833 920.75 
+L 1053.604687 920.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_27">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 778.284783 
-L 1986.612467 778.284783 
-L 1986.612467 760.558696 
-L 1053.604687 760.558696 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 905.65 
+L 1971.994759 905.65 
+L 1971.994759 890.55 
+L 1053.604687 890.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_28">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 742.832609 
-L 1987.371186 742.832609 
-L 1987.371186 725.106522 
-L 1053.604687 725.106522 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 875.45 
+L 1987.709481 875.45 
+L 1987.709481 860.35 
+L 1053.604687 860.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_29">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 707.380435 
-L 1992.465443 707.380435 
-L 1992.465443 689.654348 
-L 1053.604687 689.654348 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 845.25 
+L 1992.803219 845.25 
+L 1992.803219 830.15 
+L 1053.604687 830.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_30">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 671.928261 
-L 2006.881107 671.928261 
-L 2006.881107 654.202174 
-L 1053.604687 654.202174 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 815.05 
+L 1995.729409 815.05 
+L 1995.729409 799.95 
+L 1053.604687 799.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_31">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 636.476087 
-L 2010.024372 636.476087 
-L 2010.024372 618.75 
-L 1053.604687 618.75 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 784.85 
+L 2007.867677 784.85 
+L 2007.867677 769.75 
+L 1053.604687 769.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_32">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 601.023913 
-L 2012.408918 601.023913 
-L 2012.408918 583.297826 
-L 1053.604687 583.297826 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 754.65 
+L 2009.168206 754.65 
+L 2009.168206 739.55 
+L 1053.604687 739.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_33">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 565.571739 
-L 2014.143133 565.571739 
-L 2014.143133 547.845652 
-L 1053.604687 547.845652 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 724.45 
+L 2012.419528 724.45 
+L 2012.419528 709.35 
+L 1053.604687 709.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_34">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 530.119565 
-L 2014.35991 530.119565 
-L 2014.35991 512.393478 
-L 1053.604687 512.393478 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 694.25 
+L 2015.779228 694.25 
+L 2015.779228 679.15 
+L 1053.604687 679.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_35">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 494.667391 
-L 2022.489044 494.667391 
-L 2022.489044 476.941304 
-L 1053.604687 476.941304 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 664.05 
+L 2018.16353 664.05 
+L 2018.16353 648.95 
+L 1053.604687 648.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_36">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 459.215217 
-L 2026.607805 459.215217 
-L 2026.607805 441.48913 
-L 1053.604687 441.48913 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 633.85 
+L 2021.198097 633.85 
+L 2021.198097 618.75 
+L 1053.604687 618.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_37">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 423.763043 
-L 2036.362766 423.763043 
-L 2036.362766 406.036957 
-L 1053.604687 406.036957 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 603.65 
+L 2022.498626 603.65 
+L 2022.498626 588.55 
+L 1053.604687 588.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_38">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 388.31087 
-L 2039.289254 388.31087 
-L 2039.289254 370.584783 
-L 1053.604687 370.584783 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 573.45 
+L 2028.351006 573.45 
+L 2028.351006 558.35 
+L 1053.604687 558.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_39">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 352.858696 
-L 2040.806692 352.858696 
-L 2040.806692 335.132609 
-L 1053.604687 335.132609 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 543.25 
+L 2033.661498 543.25 
+L 2033.661498 528.15 
+L 1053.604687 528.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_40">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 317.406522 
-L 2042.107354 317.406522 
-L 2042.107354 299.680435 
-L 1053.604687 299.680435 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 513.05 
+L 2035.503914 513.05 
+L 2035.503914 497.95 
+L 1053.604687 497.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_41">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 281.954348 
-L 2050.453264 281.954348 
-L 2050.453264 264.228261 
-L 1053.604687 264.228261 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 482.85 
+L 2035.612291 482.85 
+L 2035.612291 467.75 
+L 1053.604687 467.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_42">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 246.502174 
-L 2054.030083 246.502174 
-L 2054.030083 228.776087 
-L 1053.604687 228.776087 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 452.65 
+L 2040.706029 452.65 
+L 2040.706029 437.55 
+L 1053.604687 437.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_43">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 211.05 
-L 2055.439133 211.05 
-L 2055.439133 193.323913 
-L 1053.604687 193.323913 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 422.45 
+L 2043.415464 422.45 
+L 2043.415464 407.35 
+L 1053.604687 407.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_44">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 175.597826 
-L 2068.879301 175.597826 
-L 2068.879301 157.871739 
-L 1053.604687 157.871739 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 392.25 
+L 2044.282483 392.25 
+L 2044.282483 377.15 
+L 1053.604687 377.15 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_45">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 140.145652 
-L 2078.525873 140.145652 
-L 2078.525873 122.419565 
-L 1053.604687 122.419565 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 362.05 
+L 2044.932748 362.05 
+L 2044.932748 346.95 
+L 1053.604687 346.95 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_46">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 104.693478 
-L 2087.196949 104.693478 
-L 2087.196949 86.967391 
-L 1053.604687 86.967391 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 331.85 
+L 2048.400824 331.85 
+L 2048.400824 316.75 
+L 1053.604687 316.75 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_47">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 69.241304 
-L 2104.213935 69.241304 
-L 2104.213935 51.515217 
-L 1053.604687 51.515217 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 301.65 
+L 2051.760524 301.65 
+L 2051.760524 286.55 
+L 1053.604687 286.55 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_48">
-    <path clip-path="url(#p4fdc8584c3)" d="M 1053.604687 33.78913 
-L 2116.46183 33.78913 
-L 2116.46183 16.063043 
-L 1053.604687 16.063043 
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 271.45 
+L 2052.952675 271.45 
+L 2052.952675 256.35 
+L 1053.604687 256.35 
 z
 " style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_49">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 241.25 
+L 2053.819694 241.25 
+L 2053.819694 226.15 
+L 1053.604687 226.15 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_50">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 211.05 
+L 2058.263168 211.05 
+L 2058.263168 195.95 
+L 1053.604687 195.95 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_51">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 180.85 
+L 2066.824982 180.85 
+L 2066.824982 165.75 
+L 1053.604687 165.75 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_52">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 150.65 
+L 2066.933359 150.65 
+L 2066.933359 135.55 
+L 1053.604687 135.55 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_53">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 120.45 
+L 2085.682649 120.45 
+L 2085.682649 105.35 
+L 1053.604687 105.35 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_54">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 90.25 
+L 2098.57956 90.25 
+L 2098.57956 75.15 
+L 1053.604687 75.15 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_55">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 60.05 
+L 2115.269679 60.05 
+L 2115.269679 44.95 
+L 1053.604687 44.95 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_56">
+    <path clip-path="url(#p2323ff4774)" d="M 1053.604687 29.85 
+L 2116.46183 29.85 
+L 2116.46183 14.75 
+L 1053.604687 14.75 
+z
+" style="fill:#1f77b4;stroke:#ffffff;stroke-linejoin:miter;stroke-width:2;"/>
+   </g>
+   <g id="patch_57">
     <path d="M 1053.604687 1638 
 L 1053.604687 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2.5;"/>
    </g>
-   <g id="patch_50">
+   <g id="patch_58">
     <path d="M 2169.604688 1638 
 L 2169.604688 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2.5;"/>
    </g>
-   <g id="patch_51">
+   <g id="patch_59">
     <path d="M 1053.604687 1638 
 L 2169.604688 1638 
 " style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2.5;"/>
    </g>
-   <g id="patch_52">
+   <g id="patch_60">
     <path d="M 1053.604687 7.2 
 L 2169.604688 7.2 
 " style="fill:none;stroke:#cccccc;stroke-linecap:square;stroke-linejoin:miter;stroke-width:2.5;"/>
    </g>
-   <g id="text_55">
+   <g id="text_63">
     <!-- 0.129100 -->
-    <g style="fill:#262626;" transform="translate(1196.534177 1627.792351)scale(0.28 -0.28)">
+    <g style="fill:#262626;" transform="translate(1196.519908 1630.418438)scale(0.28 -0.28)">
      <defs>
       <path d="M 1658 4346 
 Q 2336 4346 2688 3901 
@@ -3368,9 +3780,9 @@ z
      <use x="324.199905" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_56">
+   <g id="text_64">
     <!-- 0.207100 -->
-    <g style="fill:#262626;" transform="translate(1281.077168 1592.340177)scale(0.28 -0.28)">
+    <g style="fill:#262626;" transform="translate(1281.054279 1600.218438)scale(0.28 -0.28)">
      <defs>
       <path d="M 2650 4282 
 L 2650 3840 
@@ -3393,22 +3805,22 @@ z
      <use x="328.599915" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_57">
-    <!-- 0.326600 -->
-    <g style="fill:#262626;" transform="translate(1410.601366 1556.888003)scale(0.28 -0.28)">
+   <g id="text_65">
+    <!-- 0.312800 -->
+    <g style="fill:#262626;" transform="translate(1395.609189 1570.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-33"/>
-     <use x="129.699966" xlink:href="#FiraSans-Regular-32"/>
-     <use x="179.199951" xlink:href="#FiraSans-Regular-36"/>
-     <use x="232.499939" xlink:href="#FiraSans-Regular-36"/>
-     <use x="285.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="341.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="129.699966" xlink:href="#FiraSans-Regular-31"/>
+     <use x="172.999954" xlink:href="#FiraSans-Regular-32"/>
+     <use x="222.499939" xlink:href="#FiraSans-Regular-38"/>
+     <use x="277.59993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="333.399918" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_58">
+   <g id="text_66">
     <!-- 0.472500 -->
-    <g style="fill:#262626;" transform="translate(1568.740115 1521.435829)scale(0.28 -0.28)">
+    <g style="fill:#262626;" transform="translate(1568.687893 1539.818438)scale(0.28 -0.28)">
      <defs>
       <path d="M 2688 3821 
 L 1018 3821 
@@ -3447,425 +3859,464 @@ z
      <use x="332.799927" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_59">
-    <!-- 0.500700 -->
-    <g style="fill:#262626;" transform="translate(1599.305658 1485.983655)scale(0.28 -0.28)">
+   <g id="text_67">
+    <!-- 0.494000 -->
+    <g style="fill:#262626;" transform="translate(1591.989034 1509.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-34"/>
+     <use x="132.999969" xlink:href="#FiraSans-Regular-39"/>
+     <use x="185.499954" xlink:href="#FiraSans-Regular-34"/>
+     <use x="238.699951" xlink:href="#FiraSans-Regular-30"/>
+     <use x="294.499939" xlink:href="#FiraSans-Regular-30"/>
+     <use x="350.299927" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_68">
+    <!-- 0.543100 -->
+    <g style="fill:#262626;" transform="translate(1645.202336 1479.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-35"/>
-     <use x="129.899963" xlink:href="#FiraSans-Regular-30"/>
-     <use x="185.699951" xlink:href="#FiraSans-Regular-30"/>
-     <use x="241.499939" xlink:href="#FiraSans-Regular-37"/>
-     <use x="285.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="341.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="129.899963" xlink:href="#FiraSans-Regular-34"/>
+     <use x="183.09996" xlink:href="#FiraSans-Regular-33"/>
+     <use x="232.999954" xlink:href="#FiraSans-Regular-31"/>
+     <use x="276.299942" xlink:href="#FiraSans-Regular-30"/>
+     <use x="332.09993" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_60">
-    <!-- 0.511600 -->
-    <g style="fill:#262626;" transform="translate(1611.119999 1450.531481)scale(0.28 -0.28)">
+   <g id="text_69">
+    <!-- 0.544900 -->
+    <g style="fill:#262626;" transform="translate(1647.15313 1449.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-35"/>
-     <use x="129.899963" xlink:href="#FiraSans-Regular-31"/>
-     <use x="173.199951" xlink:href="#FiraSans-Regular-31"/>
-     <use x="216.499939" xlink:href="#FiraSans-Regular-36"/>
-     <use x="269.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="325.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="129.899963" xlink:href="#FiraSans-Regular-34"/>
+     <use x="183.09996" xlink:href="#FiraSans-Regular-34"/>
+     <use x="236.299957" xlink:href="#FiraSans-Regular-39"/>
+     <use x="288.799942" xlink:href="#FiraSans-Regular-30"/>
+     <use x="344.59993" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_61">
-    <!-- 0.537900 -->
-    <g style="fill:#262626;" transform="translate(1639.626161 1415.079307)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-35"/>
-     <use x="129.899963" xlink:href="#FiraSans-Regular-33"/>
-     <use x="179.799957" xlink:href="#FiraSans-Regular-37"/>
-     <use x="224.199951" xlink:href="#FiraSans-Regular-39"/>
-     <use x="276.699936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="332.499924" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_62">
-    <!-- 0.552200 -->
-    <g style="fill:#262626;" transform="translate(1655.12571 1379.627133)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-35"/>
-     <use x="129.899963" xlink:href="#FiraSans-Regular-35"/>
-     <use x="179.999954" xlink:href="#FiraSans-Regular-32"/>
-     <use x="229.499939" xlink:href="#FiraSans-Regular-32"/>
-     <use x="278.999924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="334.799911" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_63">
-    <!-- 0.570800 -->
-    <g style="fill:#262626;" transform="translate(1675.285961 1344.174959)scale(0.28 -0.28)">
+   <g id="text_70">
+    <!-- 0.577700 -->
+    <g style="fill:#262626;" transform="translate(1682.700916 1419.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-35"/>
      <use x="129.899963" xlink:href="#FiraSans-Regular-37"/>
-     <use x="174.299957" xlink:href="#FiraSans-Regular-30"/>
-     <use x="230.099945" xlink:href="#FiraSans-Regular-38"/>
-     <use x="285.199936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="340.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="174.299957" xlink:href="#FiraSans-Regular-37"/>
+     <use x="218.699951" xlink:href="#FiraSans-Regular-37"/>
+     <use x="263.099945" xlink:href="#FiraSans-Regular-30"/>
+     <use x="318.899933" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_64">
-    <!-- 0.618500 -->
-    <g style="fill:#262626;" transform="translate(1726.987252 1308.722785)scale(0.28 -0.28)">
+   <g id="text_71">
+    <!-- 0.621100 -->
+    <g style="fill:#262626;" transform="translate(1729.736707 1388.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
-     <use x="133.09996" xlink:href="#FiraSans-Regular-31"/>
-     <use x="176.399948" xlink:href="#FiraSans-Regular-38"/>
-     <use x="231.499939" xlink:href="#FiraSans-Regular-35"/>
-     <use x="281.59993" xlink:href="#FiraSans-Regular-30"/>
-     <use x="337.399918" xlink:href="#FiraSans-Regular-30"/>
+     <use x="133.09996" xlink:href="#FiraSans-Regular-32"/>
+     <use x="182.599945" xlink:href="#FiraSans-Regular-31"/>
+     <use x="225.899933" xlink:href="#FiraSans-Regular-31"/>
+     <use x="269.199921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="324.999908" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_65">
-    <!-- 0.655700 -->
-    <g style="fill:#262626;" transform="translate(1767.307756 1273.270611)scale(0.28 -0.28)">
+   <g id="text_72">
+    <!-- 0.636300 -->
+    <g style="fill:#262626;" transform="translate(1746.210071 1358.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
+     <use x="133.09996" xlink:href="#FiraSans-Regular-33"/>
+     <use x="182.999954" xlink:href="#FiraSans-Regular-36"/>
+     <use x="236.299942" xlink:href="#FiraSans-Regular-33"/>
+     <use x="286.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="341.999924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_73">
+    <!-- 0.650900 -->
+    <g style="fill:#262626;" transform="translate(1762.033172 1328.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
      <use x="133.09996" xlink:href="#FiraSans-Regular-35"/>
-     <use x="183.199951" xlink:href="#FiraSans-Regular-35"/>
-     <use x="233.299942" xlink:href="#FiraSans-Regular-37"/>
-     <use x="277.699936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="333.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="183.199951" xlink:href="#FiraSans-Regular-30"/>
+     <use x="238.999939" xlink:href="#FiraSans-Regular-39"/>
+     <use x="291.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="347.299911" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_66">
-    <!-- 0.667200 -->
-    <g style="fill:#262626;" transform="translate(1779.772427 1237.818438)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
-     <use x="133.09996" xlink:href="#FiraSans-Regular-36"/>
-     <use x="186.399948" xlink:href="#FiraSans-Regular-37"/>
-     <use x="230.799942" xlink:href="#FiraSans-Regular-32"/>
-     <use x="280.299927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="336.099915" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_67">
-    <!-- 0.681600 -->
-    <g style="fill:#262626;" transform="translate(1795.380364 1202.366264)scale(0.28 -0.28)">
+   <g id="text_74">
+    <!-- 0.682300 -->
+    <g style="fill:#262626;" transform="translate(1796.063675 1298.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
      <use x="133.09996" xlink:href="#FiraSans-Regular-38"/>
-     <use x="188.199951" xlink:href="#FiraSans-Regular-31"/>
-     <use x="231.499939" xlink:href="#FiraSans-Regular-36"/>
-     <use x="284.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="340.599915" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_68">
-    <!-- 0.722600 -->
-    <g style="fill:#262626;" transform="translate(1839.819629 1166.91409)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-32"/>
-     <use x="173.699951" xlink:href="#FiraSans-Regular-32"/>
-     <use x="223.199936" xlink:href="#FiraSans-Regular-36"/>
-     <use x="276.499924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="332.299911" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_69">
-    <!-- 0.739900 -->
-    <g style="fill:#262626;" transform="translate(1858.570831 1131.461916)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-33"/>
-     <use x="174.09996" xlink:href="#FiraSans-Regular-39"/>
-     <use x="226.599945" xlink:href="#FiraSans-Regular-39"/>
-     <use x="279.09993" xlink:href="#FiraSans-Regular-30"/>
-     <use x="334.899918" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_70">
-    <!-- 0.757600 -->
-    <g style="fill:#262626;" transform="translate(1877.755586 1096.009742)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-35"/>
-     <use x="174.299957" xlink:href="#FiraSans-Regular-37"/>
-     <use x="218.699951" xlink:href="#FiraSans-Regular-36"/>
-     <use x="271.999939" xlink:href="#FiraSans-Regular-30"/>
-     <use x="327.799927" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_71">
-    <!-- 0.761800 -->
-    <g style="fill:#262626;" transform="translate(1882.307901 1060.557568)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-36"/>
-     <use x="177.499954" xlink:href="#FiraSans-Regular-31"/>
-     <use x="220.799942" xlink:href="#FiraSans-Regular-38"/>
-     <use x="275.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="331.699921" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_72">
-    <!-- 0.766900 -->
-    <g style="fill:#262626;" transform="translate(1887.835712 1025.105394)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-36"/>
-     <use x="177.499954" xlink:href="#FiraSans-Regular-36"/>
-     <use x="230.799942" xlink:href="#FiraSans-Regular-39"/>
-     <use x="283.299927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="339.099915" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_73">
-    <!-- 0.778200 -->
-    <g style="fill:#262626;" transform="translate(1900.083607 989.65322)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-37"/>
-     <use x="168.59996" xlink:href="#FiraSans-Regular-38"/>
-     <use x="223.699951" xlink:href="#FiraSans-Regular-32"/>
-     <use x="273.199936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="328.999924" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_74">
-    <!-- 0.788700 -->
-    <g style="fill:#262626;" transform="translate(1911.464394 954.201046)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-38"/>
-     <use x="179.299957" xlink:href="#FiraSans-Regular-38"/>
-     <use x="234.399948" xlink:href="#FiraSans-Regular-37"/>
-     <use x="278.799942" xlink:href="#FiraSans-Regular-30"/>
-     <use x="334.59993" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_75">
-    <!-- 0.798000 -->
-    <g style="fill:#262626;" transform="translate(1921.54452 918.748872)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
-     <use x="124.199966" xlink:href="#FiraSans-Regular-39"/>
-     <use x="176.699951" xlink:href="#FiraSans-Regular-38"/>
-     <use x="231.799942" xlink:href="#FiraSans-Regular-30"/>
+     <use x="188.199951" xlink:href="#FiraSans-Regular-32"/>
+     <use x="237.699936" xlink:href="#FiraSans-Regular-33"/>
      <use x="287.59993" xlink:href="#FiraSans-Regular-30"/>
      <use x="343.399918" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_76">
-    <!-- 0.805900 -->
-    <g style="fill:#262626;" transform="translate(1930.107208 883.296698)scale(0.28 -0.28)">
+   <g id="text_75">
+    <!-- 0.688300 -->
+    <g style="fill:#262626;" transform="translate(1802.566318 1268.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
-     <use x="134.899963" xlink:href="#FiraSans-Regular-30"/>
-     <use x="190.699951" xlink:href="#FiraSans-Regular-35"/>
-     <use x="240.799942" xlink:href="#FiraSans-Regular-39"/>
-     <use x="293.299927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="349.099915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-36"/>
+     <use x="133.09996" xlink:href="#FiraSans-Regular-38"/>
+     <use x="188.199951" xlink:href="#FiraSans-Regular-38"/>
+     <use x="243.299942" xlink:href="#FiraSans-Regular-33"/>
+     <use x="293.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="348.999924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_76">
+    <!-- 0.721600 -->
+    <g style="fill:#262626;" transform="translate(1838.655992 1237.818438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-32"/>
+     <use x="173.699951" xlink:href="#FiraSans-Regular-31"/>
+     <use x="216.999939" xlink:href="#FiraSans-Regular-36"/>
+     <use x="270.299927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="326.099915" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
    <g id="text_77">
-    <!-- 0.845200 -->
-    <g style="fill:#262626;" transform="translate(1972.703869 847.844524)scale(0.28 -0.28)">
+    <!-- 0.743200 -->
+    <g style="fill:#262626;" transform="translate(1862.06551 1207.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-34"/>
+     <use x="177.399963" xlink:href="#FiraSans-Regular-33"/>
+     <use x="227.299957" xlink:href="#FiraSans-Regular-32"/>
+     <use x="276.799942" xlink:href="#FiraSans-Regular-30"/>
+     <use x="332.59993" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_78">
+    <!-- 0.745200 -->
+    <g style="fill:#262626;" transform="translate(1864.233058 1177.418438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-34"/>
+     <use x="177.399963" xlink:href="#FiraSans-Regular-35"/>
+     <use x="227.499954" xlink:href="#FiraSans-Regular-32"/>
+     <use x="276.999939" xlink:href="#FiraSans-Regular-30"/>
+     <use x="332.799927" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_79">
+    <!-- 0.759300 -->
+    <g style="fill:#262626;" transform="translate(1879.514271 1147.218438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-35"/>
+     <use x="174.299957" xlink:href="#FiraSans-Regular-39"/>
+     <use x="226.799942" xlink:href="#FiraSans-Regular-33"/>
+     <use x="276.699936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="332.499924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_80">
+    <!-- 0.765200 -->
+    <g style="fill:#262626;" transform="translate(1885.908538 1117.018438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-36"/>
+     <use x="177.499954" xlink:href="#FiraSans-Regular-35"/>
+     <use x="227.599945" xlink:href="#FiraSans-Regular-32"/>
+     <use x="277.09993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="332.899918" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_81">
+    <!-- 0.773800 -->
+    <g style="fill:#262626;" transform="translate(1895.228994 1086.818438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-37"/>
+     <use x="168.59996" xlink:href="#FiraSans-Regular-33"/>
+     <use x="218.499954" xlink:href="#FiraSans-Regular-38"/>
+     <use x="273.599945" xlink:href="#FiraSans-Regular-30"/>
+     <use x="329.399933" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_82">
+    <!-- 0.775400 -->
+    <g style="fill:#262626;" transform="translate(1896.963032 1056.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-37"/>
+     <use x="168.59996" xlink:href="#FiraSans-Regular-35"/>
+     <use x="218.699951" xlink:href="#FiraSans-Regular-34"/>
+     <use x="271.899948" xlink:href="#FiraSans-Regular-30"/>
+     <use x="327.699936" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_83">
+    <!-- 0.790200 -->
+    <g style="fill:#262626;" transform="translate(1913.002887 1026.418438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-39"/>
+     <use x="176.699951" xlink:href="#FiraSans-Regular-30"/>
+     <use x="232.499939" xlink:href="#FiraSans-Regular-32"/>
+     <use x="281.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="337.799911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_84">
+    <!-- 0.791900 -->
+    <g style="fill:#262626;" transform="translate(1914.845303 996.218438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-39"/>
+     <use x="176.699951" xlink:href="#FiraSans-Regular-31"/>
+     <use x="219.999939" xlink:href="#FiraSans-Regular-39"/>
+     <use x="272.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="328.299911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_85">
+    <!-- 0.799600 -->
+    <g style="fill:#262626;" transform="translate(1923.190362 966.018438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-37"/>
+     <use x="124.199966" xlink:href="#FiraSans-Regular-39"/>
+     <use x="176.699951" xlink:href="#FiraSans-Regular-39"/>
+     <use x="229.199936" xlink:href="#FiraSans-Regular-36"/>
+     <use x="282.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="338.299911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_86">
+    <!-- 0.845300 -->
+    <g style="fill:#262626;" transform="translate(1972.718833 935.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-34"/>
      <use x="188.09996" xlink:href="#FiraSans-Regular-35"/>
-     <use x="238.199951" xlink:href="#FiraSans-Regular-32"/>
-     <use x="287.699936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="343.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="238.199951" xlink:href="#FiraSans-Regular-33"/>
+     <use x="288.099945" xlink:href="#FiraSans-Regular-30"/>
+     <use x="343.899933" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_78">
-    <!-- 0.847900 -->
-    <g style="fill:#262626;" transform="translate(1975.630357 812.392351)scale(0.28 -0.28)">
+   <g id="text_87">
+    <!-- 0.847400 -->
+    <g style="fill:#262626;" transform="translate(1974.994759 905.618438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-34"/>
      <use x="188.09996" xlink:href="#FiraSans-Regular-37"/>
-     <use x="232.499954" xlink:href="#FiraSans-Regular-39"/>
-     <use x="284.999939" xlink:href="#FiraSans-Regular-30"/>
-     <use x="340.799927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="232.499954" xlink:href="#FiraSans-Regular-34"/>
+     <use x="285.699951" xlink:href="#FiraSans-Regular-30"/>
+     <use x="341.499939" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_79">
-    <!-- 0.860800 -->
-    <g style="fill:#262626;" transform="translate(1989.612467 776.940177)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
-     <use x="134.899963" xlink:href="#FiraSans-Regular-36"/>
-     <use x="188.199951" xlink:href="#FiraSans-Regular-30"/>
-     <use x="243.999939" xlink:href="#FiraSans-Regular-38"/>
-     <use x="299.09993" xlink:href="#FiraSans-Regular-30"/>
-     <use x="354.899918" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_80">
-    <!-- 0.861500 -->
-    <g style="fill:#262626;" transform="translate(1990.371186 741.488003)scale(0.28 -0.28)">
+   <g id="text_88">
+    <!-- 0.861900 -->
+    <g style="fill:#262626;" transform="translate(1990.709481 875.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-36"/>
      <use x="188.199951" xlink:href="#FiraSans-Regular-31"/>
-     <use x="231.499939" xlink:href="#FiraSans-Regular-35"/>
-     <use x="281.59993" xlink:href="#FiraSans-Regular-30"/>
-     <use x="337.399918" xlink:href="#FiraSans-Regular-30"/>
+     <use x="231.499939" xlink:href="#FiraSans-Regular-39"/>
+     <use x="283.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="339.799911" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_81">
-    <!-- 0.866200 -->
-    <g style="fill:#262626;" transform="translate(1995.465443 706.035829)scale(0.28 -0.28)">
+   <g id="text_89">
+    <!-- 0.866600 -->
+    <g style="fill:#262626;" transform="translate(1995.803219 845.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-36"/>
      <use x="188.199951" xlink:href="#FiraSans-Regular-36"/>
-     <use x="241.499939" xlink:href="#FiraSans-Regular-32"/>
-     <use x="290.999924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="346.799911" xlink:href="#FiraSans-Regular-30"/>
+     <use x="241.499939" xlink:href="#FiraSans-Regular-36"/>
+     <use x="294.799927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="350.599915" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_82">
-    <!-- 0.879500 -->
-    <g style="fill:#262626;" transform="translate(2009.881107 670.583655)scale(0.28 -0.28)">
+   <g id="text_90">
+    <!-- 0.869300 -->
+    <g style="fill:#262626;" transform="translate(1998.729409 815.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
-     <use x="134.899963" xlink:href="#FiraSans-Regular-37"/>
-     <use x="179.299957" xlink:href="#FiraSans-Regular-39"/>
-     <use x="231.799942" xlink:href="#FiraSans-Regular-35"/>
-     <use x="281.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="337.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="134.899963" xlink:href="#FiraSans-Regular-36"/>
+     <use x="188.199951" xlink:href="#FiraSans-Regular-39"/>
+     <use x="240.699936" xlink:href="#FiraSans-Regular-33"/>
+     <use x="290.59993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="346.399918" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_83">
-    <!-- 0.882400 -->
-    <g style="fill:#262626;" transform="translate(2013.024372 635.131481)scale(0.28 -0.28)">
+   <g id="text_91">
+    <!-- 0.880500 -->
+    <g style="fill:#262626;" transform="translate(2010.867677 784.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-38"/>
-     <use x="189.999954" xlink:href="#FiraSans-Regular-32"/>
-     <use x="239.499939" xlink:href="#FiraSans-Regular-34"/>
-     <use x="292.699936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="348.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="189.999954" xlink:href="#FiraSans-Regular-30"/>
+     <use x="245.799942" xlink:href="#FiraSans-Regular-35"/>
+     <use x="295.899933" xlink:href="#FiraSans-Regular-30"/>
+     <use x="351.699921" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_84">
-    <!-- 0.884600 -->
-    <g style="fill:#262626;" transform="translate(2015.408918 599.679307)scale(0.28 -0.28)">
+   <g id="text_92">
+    <!-- 0.881700 -->
+    <g style="fill:#262626;" transform="translate(2012.168206 754.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
+     <use x="134.899963" xlink:href="#FiraSans-Regular-38"/>
+     <use x="189.999954" xlink:href="#FiraSans-Regular-31"/>
+     <use x="233.299942" xlink:href="#FiraSans-Regular-37"/>
+     <use x="277.699936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="333.499924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_93">
+    <!-- 0.884700 -->
+    <g style="fill:#262626;" transform="translate(2015.419528 724.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-38"/>
      <use x="189.999954" xlink:href="#FiraSans-Regular-34"/>
-     <use x="243.199951" xlink:href="#FiraSans-Regular-36"/>
-     <use x="296.499939" xlink:href="#FiraSans-Regular-30"/>
-     <use x="352.299927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="243.199951" xlink:href="#FiraSans-Regular-37"/>
+     <use x="287.599945" xlink:href="#FiraSans-Regular-30"/>
+     <use x="343.399933" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_85">
-    <!-- 0.886200 -->
-    <g style="fill:#262626;" transform="translate(2017.143133 564.227133)scale(0.28 -0.28)">
+   <g id="text_94">
+    <!-- 0.887800 -->
+    <g style="fill:#262626;" transform="translate(2018.779228 694.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-38"/>
-     <use x="189.999954" xlink:href="#FiraSans-Regular-36"/>
-     <use x="243.299942" xlink:href="#FiraSans-Regular-32"/>
-     <use x="292.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="348.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="189.999954" xlink:href="#FiraSans-Regular-37"/>
+     <use x="234.399948" xlink:href="#FiraSans-Regular-38"/>
+     <use x="289.499939" xlink:href="#FiraSans-Regular-30"/>
+     <use x="345.299927" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_86">
-    <!-- 0.886400 -->
-    <g style="fill:#262626;" transform="translate(2017.35991 528.774959)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
-     <use x="134.899963" xlink:href="#FiraSans-Regular-38"/>
-     <use x="189.999954" xlink:href="#FiraSans-Regular-36"/>
-     <use x="243.299942" xlink:href="#FiraSans-Regular-34"/>
-     <use x="296.499939" xlink:href="#FiraSans-Regular-30"/>
-     <use x="352.299927" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_87">
-    <!-- 0.893900 -->
-    <g style="fill:#262626;" transform="translate(2025.489044 493.322785)scale(0.28 -0.28)">
+   <g id="text_95">
+    <!-- 0.890000 -->
+    <g style="fill:#262626;" transform="translate(2021.16353 664.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-39"/>
-     <use x="187.399948" xlink:href="#FiraSans-Regular-33"/>
-     <use x="237.299942" xlink:href="#FiraSans-Regular-39"/>
-     <use x="289.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="345.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="187.399948" xlink:href="#FiraSans-Regular-30"/>
+     <use x="243.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="298.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="354.799911" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_88">
-    <!-- 0.897700 -->
-    <g style="fill:#262626;" transform="translate(2029.607805 457.870611)scale(0.28 -0.28)">
+   <g id="text_96">
+    <!-- 0.892800 -->
+    <g style="fill:#262626;" transform="translate(2024.198097 633.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
      <use x="134.899963" xlink:href="#FiraSans-Regular-39"/>
-     <use x="187.399948" xlink:href="#FiraSans-Regular-37"/>
-     <use x="231.799942" xlink:href="#FiraSans-Regular-37"/>
-     <use x="276.199936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="331.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="187.399948" xlink:href="#FiraSans-Regular-32"/>
+     <use x="236.899933" xlink:href="#FiraSans-Regular-38"/>
+     <use x="291.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="347.799911" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_89">
-    <!-- 0.906700 -->
-    <g style="fill:#262626;" transform="translate(2039.362766 422.418438)scale(0.28 -0.28)">
+   <g id="text_97">
+    <!-- 0.894000 -->
+    <g style="fill:#262626;" transform="translate(2025.498626 603.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
+     <use x="134.899963" xlink:href="#FiraSans-Regular-39"/>
+     <use x="187.399948" xlink:href="#FiraSans-Regular-34"/>
+     <use x="240.599945" xlink:href="#FiraSans-Regular-30"/>
+     <use x="296.399933" xlink:href="#FiraSans-Regular-30"/>
+     <use x="352.199921" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_98">
+    <!-- 0.899400 -->
+    <g style="fill:#262626;" transform="translate(2031.351006 573.418438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-38"/>
+     <use x="134.899963" xlink:href="#FiraSans-Regular-39"/>
+     <use x="187.399948" xlink:href="#FiraSans-Regular-39"/>
+     <use x="239.899933" xlink:href="#FiraSans-Regular-34"/>
+     <use x="293.09993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="348.899918" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_99">
+    <!-- 0.904300 -->
+    <g style="fill:#262626;" transform="translate(2036.661498 543.218438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-30"/>
+     <use x="188.099945" xlink:href="#FiraSans-Regular-34"/>
+     <use x="241.299942" xlink:href="#FiraSans-Regular-33"/>
+     <use x="291.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="346.999924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_100">
+    <!-- 0.906000 -->
+    <g style="fill:#262626;" transform="translate(2038.503914 513.018438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-30"/>
      <use x="188.099945" xlink:href="#FiraSans-Regular-36"/>
-     <use x="241.399933" xlink:href="#FiraSans-Regular-37"/>
-     <use x="285.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="341.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="241.399933" xlink:href="#FiraSans-Regular-30"/>
+     <use x="297.199921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="352.999908" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_90">
-    <!-- 0.909400 -->
-    <g style="fill:#262626;" transform="translate(2042.289254 386.966264)scale(0.28 -0.28)">
+   <g id="text_101">
+    <!-- 0.906100 -->
+    <g style="fill:#262626;" transform="translate(2038.612291 482.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-30"/>
-     <use x="188.099945" xlink:href="#FiraSans-Regular-39"/>
-     <use x="240.59993" xlink:href="#FiraSans-Regular-34"/>
-     <use x="293.799927" xlink:href="#FiraSans-Regular-30"/>
-     <use x="349.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="188.099945" xlink:href="#FiraSans-Regular-36"/>
+     <use x="241.399933" xlink:href="#FiraSans-Regular-31"/>
+     <use x="284.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="340.499908" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_91">
+   <g id="text_102">
     <!-- 0.910800 -->
-    <g style="fill:#262626;" transform="translate(2043.806692 351.51409)scale(0.28 -0.28)">
+    <g style="fill:#262626;" transform="translate(2043.706029 452.618438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
@@ -3876,127 +4327,192 @@ z
      <use x="342.299911" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_92">
-    <!-- 0.912000 -->
-    <g style="fill:#262626;" transform="translate(2045.107354 316.061916)scale(0.28 -0.28)">
+   <g id="text_103">
+    <!-- 0.913300 -->
+    <g style="fill:#262626;" transform="translate(2046.415464 422.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-31"/>
-     <use x="175.599945" xlink:href="#FiraSans-Regular-32"/>
+     <use x="175.599945" xlink:href="#FiraSans-Regular-33"/>
+     <use x="225.499939" xlink:href="#FiraSans-Regular-33"/>
+     <use x="275.399933" xlink:href="#FiraSans-Regular-30"/>
+     <use x="331.199921" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_104">
+    <!-- 0.914100 -->
+    <g style="fill:#262626;" transform="translate(2047.282483 392.218438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-31"/>
+     <use x="175.599945" xlink:href="#FiraSans-Regular-34"/>
+     <use x="228.799942" xlink:href="#FiraSans-Regular-31"/>
+     <use x="272.09993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="327.899918" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_105">
+    <!-- 0.914700 -->
+    <g style="fill:#262626;" transform="translate(2047.932748 362.018438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-31"/>
+     <use x="175.599945" xlink:href="#FiraSans-Regular-34"/>
+     <use x="228.799942" xlink:href="#FiraSans-Regular-37"/>
+     <use x="273.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="328.999924" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_106">
+    <!-- 0.917900 -->
+    <g style="fill:#262626;" transform="translate(2051.400824 331.818438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-31"/>
+     <use x="175.599945" xlink:href="#FiraSans-Regular-37"/>
+     <use x="219.999939" xlink:href="#FiraSans-Regular-39"/>
+     <use x="272.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="328.299911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_107">
+    <!-- 0.921000 -->
+    <g style="fill:#262626;" transform="translate(2054.760524 301.618438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-32"/>
+     <use x="181.799942" xlink:href="#FiraSans-Regular-31"/>
      <use x="225.09993" xlink:href="#FiraSans-Regular-30"/>
      <use x="280.899918" xlink:href="#FiraSans-Regular-30"/>
      <use x="336.699905" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_93">
-    <!-- 0.919700 -->
-    <g style="fill:#262626;" transform="translate(2053.453264 280.609742)scale(0.28 -0.28)">
-     <use xlink:href="#FiraSans-Regular-30"/>
-     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
-     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
-     <use x="132.299957" xlink:href="#FiraSans-Regular-31"/>
-     <use x="175.599945" xlink:href="#FiraSans-Regular-39"/>
-     <use x="228.09993" xlink:href="#FiraSans-Regular-37"/>
-     <use x="272.499924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="328.299911" xlink:href="#FiraSans-Regular-30"/>
-    </g>
-   </g>
-   <g id="text_94">
-    <!-- 0.923000 -->
-    <g style="fill:#262626;" transform="translate(2057.030083 245.157568)scale(0.28 -0.28)">
+   <g id="text_108">
+    <!-- 0.922100 -->
+    <g style="fill:#262626;" transform="translate(2055.952675 271.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-32"/>
-     <use x="181.799942" xlink:href="#FiraSans-Regular-33"/>
-     <use x="231.699936" xlink:href="#FiraSans-Regular-30"/>
-     <use x="287.499924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="343.299911" xlink:href="#FiraSans-Regular-30"/>
+     <use x="181.799942" xlink:href="#FiraSans-Regular-32"/>
+     <use x="231.299927" xlink:href="#FiraSans-Regular-31"/>
+     <use x="274.599915" xlink:href="#FiraSans-Regular-30"/>
+     <use x="330.399902" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_95">
-    <!-- 0.924300 -->
-    <g style="fill:#262626;" transform="translate(2058.439133 209.705394)scale(0.28 -0.28)">
+   <g id="text_109">
+    <!-- 0.922900 -->
+    <g style="fill:#262626;" transform="translate(2056.819694 241.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-32"/>
-     <use x="181.799942" xlink:href="#FiraSans-Regular-34"/>
-     <use x="234.999939" xlink:href="#FiraSans-Regular-33"/>
-     <use x="284.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="340.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="181.799942" xlink:href="#FiraSans-Regular-32"/>
+     <use x="231.299927" xlink:href="#FiraSans-Regular-39"/>
+     <use x="283.799911" xlink:href="#FiraSans-Regular-30"/>
+     <use x="339.599899" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_96">
-    <!-- 0.936700 -->
-    <g style="fill:#262626;" transform="translate(2071.879301 174.25322)scale(0.28 -0.28)">
+   <g id="text_110">
+    <!-- 0.927000 -->
+    <g style="fill:#262626;" transform="translate(2061.263168 211.018438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-32"/>
+     <use x="181.799942" xlink:href="#FiraSans-Regular-37"/>
+     <use x="226.199936" xlink:href="#FiraSans-Regular-30"/>
+     <use x="281.999924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="337.799911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_111">
+    <!-- 0.934900 -->
+    <g style="fill:#262626;" transform="translate(2069.824982 180.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-33"/>
-     <use x="182.199951" xlink:href="#FiraSans-Regular-36"/>
-     <use x="235.499939" xlink:href="#FiraSans-Regular-37"/>
-     <use x="279.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="335.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="182.199951" xlink:href="#FiraSans-Regular-34"/>
+     <use x="235.399948" xlink:href="#FiraSans-Regular-39"/>
+     <use x="287.899933" xlink:href="#FiraSans-Regular-30"/>
+     <use x="343.699921" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_97">
-    <!-- 0.945600 -->
-    <g style="fill:#262626;" transform="translate(2081.525873 138.801046)scale(0.28 -0.28)">
+   <g id="text_112">
+    <!-- 0.935000 -->
+    <g style="fill:#262626;" transform="translate(2069.933359 150.618438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
-     <use x="132.299957" xlink:href="#FiraSans-Regular-34"/>
-     <use x="185.499954" xlink:href="#FiraSans-Regular-35"/>
-     <use x="235.599945" xlink:href="#FiraSans-Regular-36"/>
-     <use x="288.899933" xlink:href="#FiraSans-Regular-30"/>
-     <use x="344.699921" xlink:href="#FiraSans-Regular-30"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-33"/>
+     <use x="182.199951" xlink:href="#FiraSans-Regular-35"/>
+     <use x="232.299942" xlink:href="#FiraSans-Regular-30"/>
+     <use x="288.09993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="343.899918" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_98">
-    <!-- 0.953600 -->
-    <g style="fill:#262626;" transform="translate(2090.196949 103.348872)scale(0.28 -0.28)">
+   <g id="text_113">
+    <!-- 0.952300 -->
+    <g style="fill:#262626;" transform="translate(2088.682649 120.418438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-35"/>
-     <use x="182.399948" xlink:href="#FiraSans-Regular-33"/>
-     <use x="232.299942" xlink:href="#FiraSans-Regular-36"/>
-     <use x="285.59993" xlink:href="#FiraSans-Regular-30"/>
-     <use x="341.399918" xlink:href="#FiraSans-Regular-30"/>
+     <use x="182.399948" xlink:href="#FiraSans-Regular-32"/>
+     <use x="231.899933" xlink:href="#FiraSans-Regular-33"/>
+     <use x="281.799927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="337.599915" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_99">
-    <!-- 0.969300 -->
-    <g style="fill:#262626;" transform="translate(2107.213935 67.896698)scale(0.28 -0.28)">
+   <g id="text_114">
+    <!-- 0.964200 -->
+    <g style="fill:#262626;" transform="translate(2101.57956 90.218438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-36"/>
-     <use x="185.599945" xlink:href="#FiraSans-Regular-39"/>
-     <use x="238.09993" xlink:href="#FiraSans-Regular-33"/>
-     <use x="287.999924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="343.799911" xlink:href="#FiraSans-Regular-30"/>
+     <use x="185.599945" xlink:href="#FiraSans-Regular-34"/>
+     <use x="238.799942" xlink:href="#FiraSans-Regular-32"/>
+     <use x="288.299927" xlink:href="#FiraSans-Regular-30"/>
+     <use x="344.099915" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
-   <g id="text_100">
-    <!-- 0.980600 -->
-    <g style="fill:#262626;" transform="translate(2119.46183 32.444524)scale(0.28 -0.28)">
+   <g id="text_115">
+    <!-- 0.979600 -->
+    <g style="fill:#262626;" transform="translate(2118.269679 60.018438)scale(0.28 -0.28)">
+     <use xlink:href="#FiraSans-Regular-30"/>
+     <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
+     <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
+     <use x="132.299957" xlink:href="#FiraSans-Regular-37"/>
+     <use x="176.699951" xlink:href="#FiraSans-Regular-39"/>
+     <use x="229.199936" xlink:href="#FiraSans-Regular-36"/>
+     <use x="282.499924" xlink:href="#FiraSans-Regular-30"/>
+     <use x="338.299911" xlink:href="#FiraSans-Regular-30"/>
+    </g>
+   </g>
+   <g id="text_116">
+    <!-- 0.980700 -->
+    <g style="fill:#262626;" transform="translate(2119.46183 29.818438)scale(0.28 -0.28)">
      <use xlink:href="#FiraSans-Regular-30"/>
      <use x="55.799988" xlink:href="#FiraSans-Regular-2e"/>
      <use x="79.799973" xlink:href="#FiraSans-Regular-39"/>
      <use x="132.299957" xlink:href="#FiraSans-Regular-38"/>
      <use x="187.399948" xlink:href="#FiraSans-Regular-30"/>
-     <use x="243.199936" xlink:href="#FiraSans-Regular-36"/>
-     <use x="296.499924" xlink:href="#FiraSans-Regular-30"/>
-     <use x="352.299911" xlink:href="#FiraSans-Regular-30"/>
+     <use x="243.199936" xlink:href="#FiraSans-Regular-37"/>
+     <use x="287.59993" xlink:href="#FiraSans-Regular-30"/>
+     <use x="343.399918" xlink:href="#FiraSans-Regular-30"/>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4fdc8584c3">
+  <clipPath id="p2323ff4774">
    <rect height="1630.8" width="1116" x="1053.604687" y="7.2"/>
   </clipPath>
  </defs>
